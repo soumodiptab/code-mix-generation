@@ -3,16 +3,14 @@ from torch.utils.data import Dataset, DataLoader
 
 
 class LinceDataset(Dataset):
-    def __init__(self, filename):
+    def __init__(self,filename,vocab=None):
         data = self.read_data(filename)
-        self.vocab, self.ind2vocab = self.build_vocab(data)
-        x = self.__create_dataset(data)
-
-    def __init__(self,filename,vocab):
-        self.vocab = vocab
-        self.ind2vocab = {v:k for k,v in vocab.items()}
-        data = self.read_data(filename)
-        x = self.__create_dataset(data)
+        if vocab is None:
+            self.vocab, self.ind2vocab = self.build_vocab(data)
+        else:
+            self.vocab = vocab
+            self.ind2vocab = {v:k for k,v in vocab.items()}
+        self.data = data
         
     def get_vocab(self):
         return self.vocab
@@ -21,7 +19,7 @@ class LinceDataset(Dataset):
         lines = []
         with open(filename, 'r') as f:
             for line in f.readlines():
-                lines.append(line.strip().split(' '))
+                lines.append(line.strip().split('\t')[1].split(' '))
         return lines
 
     def build_vocab(self,data):
@@ -39,19 +37,14 @@ class LinceDataset(Dataset):
         return vocab_dict, ind2word
 
     def __create_dataset(self, data):
-        x = []
-        y = []
-        for line in data:
-            line = line.strip()
-            x.append(line.split('\t')[0])
-            y.append(line.split('\t')[1])
-        return x, y
+       pass
 
     def __len__(self):
         return len(self.data)
 
     def __getitem__(self, idx):
         return self.data[idx]
+
 
 # create a function to read the data from a file
 
