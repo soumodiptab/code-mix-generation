@@ -41,41 +41,51 @@ def replace_hyphenated_words(text):
     # replace hyphenated words with words seperated by space
     return re.sub(r'(\w+)-(\w+)', r'\1 \2', text)
 
-def custom_tokenizer(line):
+
+def custom_cleaner(line):
     line = re.sub(r'<|>', ' ', line)
     line = replace_dates(line)
     line = replace_hyphenated_words(line)
     line = replace_hash_tags(line)
     # remove < and > from the text
     line = clean(line, no_emoji=True,
-                    no_urls=True,
-                    no_emails=True,
-                    no_phone_numbers=True,
-                    no_currency_symbols=True,
-                    replace_with_url=" <URL> ",
-                    replace_with_email=" <EMAIL> ",
-                    replace_with_phone_number=" <PHONE> ",
-                    replace_with_currency_symbol=" <CURRENCY> ",
-                    lower=True)
+                 no_urls=True,
+                 no_emails=True,
+                 no_phone_numbers=True,
+                 no_currency_symbols=True,
+                 replace_with_url=" <URL> ",
+                 replace_with_email=" <EMAIL> ",
+                 replace_with_phone_number=" <PHONE> ",
+                 replace_with_currency_symbol=" <CURRENCY> ",
+                 lower=True)
     line = remove_special_characters(line)
     #line = replace_concurrent_punctuation(line)
     line = clean(line, no_numbers=True, no_digits=True, no_punct=True,
-                    replace_with_number=" <NUMBER> ", replace_with_digit=" ", replace_with_punct="")
+                 replace_with_number=" <NUMBER> ", replace_with_digit=" ", replace_with_punct="")
     line = "<BEGIN> " + line + " <END>"
     line = remove_extra_spaces(line)
+    return line
 
 
-def read_data(filename):
+def read_data(filename, test=False):
+    lines = []
     with open(filename, 'r') as f:
-        lines = []
+        
         for line in f.readlines():
             line = line.strip()
             english = line.split('\t')[0]
-            hinglish = line.split('\t')[1]
-            
-            tokens = tokenizer(line)
-            if len(tokens) > 1:
-                lines.append(tokens)
+            english = custom_cleaner(english)
+            tokens_e = tokenizer(english)
+            english = ' '.join(tokens_e)
+            if not test:
+                hinglish = line.split('\t')[1]
+                hinglish = custom_cleaner(hinglish)
+                tokens_h = tokenizer(hinglish)
+                hinglish = ' '.join(tokens_h)
+                line = english+'\t'+hinglish
+            else:
+                line = english+'\t'+""
+            lines.append(line)
     return lines
 
 
@@ -83,18 +93,18 @@ def save_data(filename, lines):
     # Save the data to a file
     with open(filename, 'w')as f:
         for line in lines:
-            line = ' '.join(line)
-            f.write(line.strip()+'\n')
+            f.write(line+'\n')
 
 
 if not os.path.exists('./processed_data'):
     os.mkdir('processed_data')
 
 train = read_data('data/train.txt')
-
+valid = read_data('data/dev.txt')
+test = read_data('data/test.txt', True)
 # train, valid = train_test_split(data, test_size=0.3, random_state=42)
 # valid, test = train_test_split(valid, test_size=0.5, random_state=42)
 # print(train[1:100])
-save_data('processed_data/train.txt', train)
-save_data('processed_data/valid.txt', valid)
-save_data('processed_data/test.txt', test)
+save_data('processed_data/lince/train.txt', train)
+save_data('processed_data/lince/valid.txt', valid)
+save_data('processed_data/lince/test.txt', test)

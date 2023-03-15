@@ -1,0 +1,942 @@
+<begin> hello <end>	<begin> hello <end>
+<begin> hello there i have not seen this movie so im going to take a minute to look it over <end>	<begin> hello yar mein is movie ko nahi dekha hoon tho tho mein thode der ke liye isko dekh loonga <end>
+<begin> alright that is fine what is the movie <end>	<begin> acha tho is movie kis baare me hein <end>
+<begin> the movie is the social network <end>	<begin> is movie tho social network ke bare mein hein <end>
+<begin> i have not seen that one either <end>	<begin> mein aise kuch nahi dekha hoon <end>
+<begin> it appears to be like a biographical movie about mark zuckerberg and when he creates facebook <end>	<begin> yeh tho biographical movie ke tarah hein mark zukerberk ke baare mein hein kya jo facebook create kiya <end>
+<begin> ohh yes i remember hearing about that movie but it was a long time ago it feels like <end>	<begin> haan yar mein bhi is movie ke baare mein suna hoon kahi saal ke pehle aaya tha na <end>
+<begin> rotten tomatoes has rated it <number> so thats decent and it is a movie from <number> <end>	<begin> rotten tomatoes ne toh <number> deya tha aur yeh movie tho <number> ka hein <end>
+<begin> may be worth watching <end>	<begin> haan worth watching hein <end>
+<begin> yes i think it could be although i personally do not like facebook as a company <end>	<begin> haan muje bhi aise hi lagtha lekin personally muje facebook itna bhi pasand nahi hein <end>
+<begin> the movie portrays the founding of social networking website facebook and the resulting lawsuits it even has justin timberlake in it i dont think ive ever seen him act <end>	<begin> is movie tho social networking ke baare mein portrays kiya hein yaani facebook website ke tarah voh tho justin timberlake hi hey muje nahi lagtha ki voh aise act kar saktha hein <end>
+<begin> i have not seen him in any movies in years <end>	<begin> mein kaafi saalon se usse kuch movies mein nahi dekha <end>
+<begin> any other big name actors in it <end>	<begin> aur koi badi actors hein kya is mein <end>
+<begin> hmm so i just got a scene described to me it turns out mark was dumped so he made a blog about her kind of childish then he made a site for people to rate women on looksthe college put him on porbation and then that captured the attention of two classmates that how the trio came to work on facebook i guess <end>	<begin> hmm tho is scene tho mark ke baare mein hein thoda childish hein voh yek women ke liye is site banaya tha dono college mein the fir classmates ban gaye aur pyar karne lage kaise koi facebook ke liye work kar sakthe <end>
+<begin> so it came out of mark being kind of a douche makes sense when i think about the company <end>	<begin> tho mark jaise douche ko badiya film miltha thoda uska company ke baare mein bhi agar voh soch lethe <end>
+<begin> jesse eisenberg andrew garfield armie hammer and max minghella not famailiar with any of those id have to look on imbd <end>	<begin> jesse eisenberg andrew garfield armie hammer aur max minghella thoda familiar nahi heinuska id bhi kuch imbd <end>
+<begin> i am not familiar with any of them either <end>	<begin> muje bhi familiar nahi laghta <end>
+<begin> another scene came up i guess this site was just for hrvard but then they expanded to yale columbia and stanford sounds very elite like lol <end>	<begin> dusra scene mein us hrvard ke baare mein hein jo yale columbia aur stanford se expand huva kaafi elite sounds kartha lol <end>
+<begin> seems like it was intended for the elite but he saw the amount of money to be made by globalizing it <end>	<begin> haan lagtha ki elite ne intended kiya hein lekin kaafi money kharch kiya hein <end>
+<begin> and go figure sean parker who co founded napster is in on it with mark to make facebook i guess he is the one who persuaded him to drop the the as it was called thefacebook originally <end>	<begin> tho sean parker ne jo napster ke liye role play kiya tha voh tho apne aap ko persuaded kara aur facebook ka originally role banaya hein <end>
+<begin> removing the word the was a smart choice atleast <end>	<begin> the word ko remove karna waise smart choice thi atleast <end>
+<begin> yeah flows a bit better i suppose so you can say facebook me lol <end>	<begin> yes ye thoda behatar lagta hai i suppose so tum kah sako facebook me lol <end>
+<begin> ah new scene talking about all the lawsuits that came against him <end>	<begin> are new scence sabhi lawsuit jo uske against aate hai uski baat karte hai <end>
+<begin> i feel like he has always been in trouble for the way he operates then <end>	<begin> i feel wo jis tarah se operate karta hai wo hamesha hi trouble me raha hai then <end>
+<begin> now it is the way he markets ads by listening through the phones <end>	<begin> now ye uska tarika tha jisme wo market me add karta hai phone par sun kar <end>
+<begin> ending sounds weird they said it ends with him sending a friend request to his ex who dumped him ironic <end>	<begin> ending thodi weird lagi wo kahte hai ye khatm hua uske apni ex ko friend request bhejte hue jisne ise dump kiya tha <end>
+<begin> im sure that was just for the hollywood effect <end>	<begin> mai sure hu ki ye just hollywood effect tha <end>
+<begin> yeah he is a very selfish type of person i think in reality <end>	<begin> yes wo bahut selfish type ka aadmi mere hisab se reality me bhi <end>
+<begin> i agree <end>	<begin> i agree <end>
+<begin> hi well be discussing the movie john wick <end>	<begin> hi hum john wick movie par discussion kar rahe honge <end>
+<begin> hello sounds great <end>	<begin> hello great sound kar rahi he <end>
+<begin> what can i expect from john wick <end>	<begin> john wick se me kya expect kar sakta hu <end>
+<begin> ive heard really good things but dog killing can be a a bit of a downer <end>	<begin> mene really good things suni he par dog killing bit downer ho sakti he <end>
+<begin> firstly it received great reviews on rotten tomatoes and its about a former human who returns to the criminal underworld to extract revenge following the death of his wife <end>	<begin> firstly rotten tomatoes par ise great reviews mile ye ek former human ke bare me he jo apni wife ki death ka revenge lene ke liye criminal underworld me lotata he <end>
+<begin> are you a fan of keanu reeves <end>	<begin> kya tum keanu reeves ke fan ho <end>
+<begin> i am a great fan of him and his work i dont think hes avenging his wife though <end>	<begin> me uska great fan ho aur uske work ka bhi yadhyapi mujhe nahi lagta ki voh uski wife ko avenge kar raha he <end>
+<begin> from what i understand she dies of natural causes and leaves him a puppy so he has a reason to go on but then some people break into his home and kill the dog <end>	<begin> me samajhta hu ki vok natural causes ke marta hea aur uske liye ek puppy cchod deta he ki uske live zindagi me age badne ka koi reason ho but kuch log uske home me ghus kar uske dog ko mar dete he <end>
+<begin> critics certainly praised his performance in this film <end>	<begin> critics ne certainly film me uske performance ko praise kiya <end>
+<begin> well critical praise is definitely a reason to check out a performance as is a good overall rt score <end>	<begin> acchi critical praise definitely pradarshan ko check karane ka ek reason hai kyonki ek good overall rating score isko muila hai <end>
+<begin> true it all tales place following the death of his wife after a run in with a russian crime syndicate <end>	<begin> trueye sab takes place russian crime syndicate ke sath run me uski wife ki death ke bad <end>
+<begin> what kind of action movie is it <end>	<begin> ye kis type ki action movie he <end>
+<begin> very true it also received a cinemascore of b as well <end>	<begin> bilkul true as well isne cinemascope ka b bhi receive kiya <end>
+<begin> is it like the marvel movies heavy on the comedy or more like classic action movies <end>	<begin> kya ye marvel movies like he comedy par heavy or classic action movies ki tarah zayada he <end>
+<begin> its sort of an american neo noir action flick one critic described it as fired up ferocious b movie fun we cant get enough of <end>	<begin> ye american neo noir action flick ke sort ki he ek critic ne ise fired up ferocious b movie fun ab asse adhik hum nahi pa sakte ki tarah descerib kiya he <end>
+<begin> hi the movie dunkirk has a very unique back story <end>	<begin> hi dunkirk movie kee ek bahut hee anokhee kahaanee hai <end>
+<begin> hi there i agree i havent seen it but it looks like it has great reviews and ratings <end>	<begin> hi main sahamat hoon mainne ise nahin dekha hai lekin aisa lagata hai ki isakee shaanadaar reviews aur rating hai <end>
+<begin> yes the director really surrounded his audience with chaos and horror the mm film gave it a real feel <end>	<begin> haan director ne vaastav mein apane darshakon ko araajakata aur aatank ke saath gher liya <number> mm movie ne ise vaastavik roop diya <end>
+<begin> im very surprised that harry styles was cast in such a high profile role given his background as a singer since nolan didnt know about this im happy his opinion wasnt swayed <end>	<begin> mujhe bahut aashchary hai ki harry styles ko is tarah ke high profile role mein kaast kiya gaya tha unakee prshthabhoomi ek gaayak ke roop mein thee choonki nolan ko is baare mein pata nahin tha isalie mujhe khushee hai ki unakee raay ko darakinaar nahin kiya gaya <end>
+<begin> yes and similarly the lead actor was hired after a secretive auditioning process how wonderful it would be to finish months of casting auditions and win the lead role <end>	<begin> haan aur isee tarah mukhy abhineta ko ek gupt auditioning ke baad kaam par rakha gaya tha casting auditions ke maheenon ko poora karana kitana shaanadaar hoga aur mukhy bhoomika jeetenge <end>
+<begin> very true without much dialogue it really goes to show that the acting was brilliant it really took the film to the level of art <end>	<begin> sach sach bahut adhik sanvaad ke bina yah sach hai ki shaanadaar acting tha yah vaastav mein philm ko kala ke star tak le gaya <end>
+<begin> hey have you seen the inception <end>	<begin> aap shuruath dekhi thi <end>
+<begin> no i have not but have heard of it what is it about <end>	<begin> no mujhe nahi known tha parantu about it suna tha <end>
+<begin> its about extractors that perform experiments using military technology o n people to retrieve info about their targets <end>	<begin> ye extractors ke bare me he jo military technology ka use karke people par experiments perform karte he taki apne targets ke bare me info retrieve kar sake <end>
+<begin> sounds interesting do you know which actors are in it <end>	<begin> interesting lagta he kya tumhe maloom ke kon se actors isme he <end>
+<begin> i havent watched it either or seen a preview bu its scifi so it might be good ugh leonardo dicaprio is the main character <end>	<begin> mene bhi ise ya iska preview nahi watch kiya but ye scifi he so ye good hona chahiyeoh leonardo dicaprio main character he <end>
+<begin> he plays as don cobb <end>	<begin> usne as don cobb play kiya he <end>
+<begin> oh okay yeah im not a big scifi fan but there are a few movies i still enjoy in that genre <end>	<begin> accha theek he yeah me big scifi fan nahi hu but kuch movies he is genre me jinhe me still enjoy karta hu <end>
+<begin> is it a long movie <end>	<begin> kya ye ek long movie he <end>
+<begin> doesnt say how long it is <end>	<begin> kah nahi sakta how long is it <end>
+<begin> the rotten tomatoes score is <number> <end>	<begin> rotten tamatar score he <number> <end>
+<begin> wow thats impressive i like to look at rotten tomatoes when debating whether or not to see a movie do you know the director <end>	<begin> wah yeh to impressive he agar debate ye he ki movie dekhna he ya nahi to me rotten tomatoes ko look karna like karti hukya tum director ko jante ho <end>
+<begin> something about dom cobb infiltrates peoples dreams in a dream world <end>	<begin> dream world me logon ke dreams me dom cobb ke bare me kuch infiltration he <end>
+<begin> the director is christopher nolan <end>	<begin> christopher nolan director he <end>
+<begin> heard of him <end>	<begin> uski koi news <end>
+<begin> wow i thought this was recent but it came out in <number> <end>	<begin> wow mene socha tha ki yeh recent he but ye <number> me aya tha <end>
+<begin> he directed the dark knight which i enjoy yeah i know its been out awhile but <number> does seem to be a while back now time flies <end>	<begin> usne dark knight ka direction kiya he jo ki mene enjoy kiya <end>
+<begin> do you know if it won any awards <end>	<begin> kya tumhe maloom he ki isne koi award win kiya he <end>
+<begin> or how much it made at the box office <end>	<begin> ya box office par kitna collection kiya he <end>
+<begin> oh wow i loved the dark night movies and it doesnt say if its won awards or how much at box office <end>	<begin> oh wow mujhe dark knight movie se love ho gayaaur ye nahi kahta ki isne koi award win kiya or box office par how much <end>
+<begin> a critic did say it could be weirder <end>	<begin> ek critic ne kaha ki yeh weirder ho <end>
+<begin> the concept seems interesting and it has a good lead actor as well as director and reviews i think it must be good the plot does seem weird thats for sure <end>	<begin> concept interesting lagta he and isme acche lead actor he sath hi sath director and reviewsme soachta hu acchi hona chayiyeplot weird lagta he ye to sure he <end>
+<begin> tom hardy is in the movie as the character earnes and yeah the plot is a bit strange <end>	<begin> tom hardy is movie me earnes ke character me hai aur iska plot thoda strage hai <end>
+<begin> i might watch this movie now <end>	<begin> me shayad ab ye movie dekhunga <end>
+<begin> i think i may as well i cant say ive heard of tom hardy however is there any other supporting actors <end>	<begin> main sochta hun may bhi accha hai maine nahi kaha ki maine tom hardy ko nahi suna kya yanha aur koi supporting actors hai <end>
+<begin> oh earnes is a sharp tongue associate of cobb <end>	<begin> oh earnes cobb ki ek sharp tongue associate hai <end>
+<begin> ellen page <end>	<begin> ellen page <end>
+<begin> oh cool i am familiar with her shes in a number of good movies and is great <end>	<begin> oh cool me use jaanta hun wo kai movies me thi aur wo great hai <end>
+<begin> she plays ariadne she is a graduate student that constructs the dreamscapes theyre like mazes <end>	<begin> use ariadne ki bhumika play ki wo ek graduate student hai jo ki dreamscapes construct karti hai wo mazes jaise hote hai <end>
+<begin> hmm interesting do you know if its an action movie or mostly just scifi <end>	<begin> hmm interesting kya tum jaante ho ki ye ek action movie hai ya mostly sirf scifi <end>
+<begin> says scientific <end>	<begin> scientific kaho <end>
+<begin> certainly seems unique do you know if it is based off a book or a previous work <end>	<begin> nischit hi ye unique hai kya tum jaante ho if ki ye book par based hai ya ki previous work pe <end>
+<begin> something about at the end he has trouble determining which is reality and which is a dream it doesnt say its based off anything <end>	<begin> end me use ye determine karne me trouble ho raha tha ki ye reality hai ya dream hai ye yah nahi kahta ki kuch par based hai <end>
+<begin> sounds like it might be suspense thriller as well as scifi which is cool it seems pretty confusing but enticing makes me want to see it to try and figure it all out <end>	<begin> sound aise kar raha hai jaise ki ye koi suspense thriller aur scifi sath me ho jo ki bahut cool hai ye bahut confusing hai par enticing bhi hai yah mujhe uksata hai is dekhne aur figure out karne ke liye <end>
+<begin> yeah its like its got a bit of mystery too trying to figure out whats real and whats not <end>	<begin> yes aur yah sath me thodi mystery bhi hai yah figure out karne me ki kya real hai aur kya nahi <end>
+<begin> i cant think of any other movie or even book that has a related story either which makes it very interesting a very original concept <end>	<begin> kafi sochne par bhi mai mujhe koi movie ya book yaad nahi aai jisme isse related story ho jo is itna interesting banati hai bahut originao concept hai <end>
+<begin> yeah well have great day <end>	<begin> yes tumhara din achcha ho <end>
+<begin> hi how are you today <end>	<begin> hi kaise hein aaj aap <end>
+<begin> hello <end>	<begin> hello <end>
+<begin> hello <end>	<begin> hello <end>
+<begin> hi <end>	<begin> hi <end>
+<begin> i was thinking of how i remember what a good movie the original jaws was <end>	<begin> mein soch raha hoon ki original jaws toh badiya movie hein <end>
+<begin> do you like action movies <end>	<begin> aap ko action movies pasand hein kya <end>
+<begin> i do somewhat is jaws an action movie <end>	<begin> haan yar muje bhi kuch aisa hi laga ki jaws yek action movie hein <end>
+<begin> yes definitely it is a classic but still very action packed even for today <end>	<begin> haan bilakul yah ek klaasik hai lekin phir bhee bahut hee ekshan aaj ke lie bhee paik hai <end>
+<begin> i dont know much about it can you refresh me <end>	<begin> main isake baare mein jyaada nahin jaanata kya aap mujhe taaza kar sakate hain <end>
+<begin> it is about an extremely large great white shark that is way too close to a vacation beach <end>	<begin> yah ek bahut badee vishaal saphed shaark ke baare mein hai jo vaise bhee ek chhuttee samudr tat ke kareeb hai <end>
+<begin> that sounds terrifying <end>	<begin> yah bhayaanak lagata hai <end>
+<begin> a marine biologist and the police try to hunt it before it hurts anyone else <end>	<begin> ek samudree jeevavigyaanee aur pulis kisee aur ko chot pahunchaane se pahale usaka shikaar karane kee koshish karatee hai <end>
+<begin> the first scene is legendary when a woman is dragged under by jaws <end>	<begin> pahala drshy pauraanik hai jab ek mahila ko jabade ke neeche kheencha jaata hai <end>
+<begin> well i dont know it but sounds entertaining <end>	<begin> achchhee tarah se mujhe pata nahin hai lekin yah manoranjak manoranjan kar raha hai <end>
+<begin> opps sorry for the capslol <end>	<begin> topiyaan ke lie khed hai yogy <end>
+<begin> anyone famous in it <end>	<begin> isamen koee prasiddh hai <end>
+<begin> no problem yes some of its best scenes are just suspense where you dont even see the shark <end>	<begin> koee dikkat nahin hai haan isake kuchh behatareen drshy sirph saspens ke hain jahaan aap shaark ko dekh bhee nahin sakate <end>
+<begin> i feel on edge just thinking about it <end>	<begin> uske baare mein sochne bhar se hi i feel on edge <end>
+<begin> roy schneider and richard dreyfuss are in it the characters seem very real <end>	<begin> isme roy schneider aur richard dreyfuss hai characters bahut real lagte hain <end>
+<begin> steven spielberg directed it and it is very well done <end>	<begin> steven spielberg ne isko direct kiya hai aur ye bahut acchi tarah kiya hua hai <end>
+<begin> i really lke richard dreyfuss <end>	<begin> richard dreyfuss mhjhe bahut pasand hai <end>
+<begin> oh wow <end>	<begin> arre wow <end>
+<begin> yes me too he is a very likable actor <end>	<begin> haan mein bhi wo bahut accha actor hai <end>
+<begin> and very talented <end>	<begin> aur bahut talented bhi <end>
+<begin> the mayor of the beach town is kind of the bad guy as he doesnt want to tell the beach goers how dangerous the beach is <end>	<begin> beach town ka mayor kuch gadbad type ka aadmi hai kyunki woh beach goers ko beach ke khatron ke baare mein nahi batana chahta <end>
+<begin> i also really like steven spielberg but who doesnt <end>	<begin> mein bhi steven spielberg ko bahut like karta hun but who dosent <end>
+<begin> ah so the bad guy <end>	<begin> accha toh bad guy <end>
+<begin> yes the movie is rated very highly and was kind of revolutionary at the time it was released <end>	<begin> haan yar voh movie toh badiya rated paaya tha aur jab voh release ke samay toh bahut revolutionary ban gaya tha <end>
+<begin> it may be too gruesome for children though <end>	<begin> bachon ke liye toh jyada gruesome ho gaye <end>
+<begin> you have peaked my interest for sure <end>	<begin> mere interest se aapko jarur peak hota hoga <end>
+<begin> oh so not a kids movie <end>	<begin> oh toh voh kids movie nahi hein kya <end>
+<begin> what is it rated <end>	<begin> rated kya tha <end>
+<begin> i hope that you check it out it is based on a <number> novel by peter benchley im not sure what it is rated but probably r <end>	<begin> aap check kar lo <number> ke novel se tha peter benchley likhe huve the muje rate ke baare mein patha nahi probably r diye hongae <end>
+<begin> i never knew it was based on a novel <end>	<begin> muje patha hi nahi ki voh novel ke based the <end>
+<begin> maybe i will read the book first <end>	<begin> acha toh mein pehla book pad letha hoon <end>
+<begin> yes i may read it also and ill see the movie again as it is an oldie but a goodie <end>	<begin> haan mein bhi pad letha hoon aur mein us movie ko jarur dekhunga oldie hein par goodie bhi <end>
+<begin> have you read the novel <end>	<begin> kya aap novel pade the kya <end>
+<begin> no but i just might <end>	<begin> nahi lekin me just might <end>
+<begin> oh now i see you have not yet <end>	<begin> oh now i see tumne abhi tak nahi kiya he <end>
+<begin> i find books hard to read after watching the movie <end>	<begin> movie dekhne ke bad mujhe books padhne me hard lagi <end>
+<begin> no problem me too the shark in the movie looks very real <end>	<begin> koi problem nahi he me bhimovie me shark badi real lagi <end>
+<begin> is it cgi <end>	<begin> kya ye cgi he <end>
+<begin> or that wasnt around then <end>	<begin> ya woh tab wahan around nahi tha <end>
+<begin> i think it was a robotic shark but am not sure <end>	<begin> me sochta hoon voh robotic shark thi but me sure nahi hoon <end>
+<begin> well you have certainly made me want to go watch it and see what all the hype is about <end>	<begin> apne mujhe certainly prerit kiya wahan jane ke liye aur ye dekhane ke liye ki ye hype kis sambandh me he <end>
+<begin> great you at least will be able to say that you saw a revolutionary classic of that time <end>	<begin> bahut acche tum at least kah to sakogi ki tumne us samay ka ek revolutionary classic dekha <end>
+<begin> cool nice chatting bye <end>	<begin> sukhad nice charcha bye <end>
+<begin> bye and have fun at the movie <end>	<begin> bye aur movie par maje karo <end>
+<begin> this film has a great rotten tomatoes score <end>	<begin> great score hai is film ka rotten tomatoes par <end>
+<begin> what did you think of the cast <end>	<begin> cast ke baare me tum kya sochte ho <end>
+<begin> those scores are often inflated by the studios themselves i dont always trust rt <end>	<begin> ye score jyadatar studio wale hi inflate kara dete hain mujhe in rt par hamesha trust nahi aata <end>
+<begin> i thought the cast was good <end>	<begin> maine socha ye cast badhiya hai <end>
+<begin> do you watch alot of musicals <end>	<begin> aap bahut sare musicals dekhte ho kya <end>
+<begin> do you typically like musicals <end>	<begin> tum typically musicals hi pasand karte ho kya <end>
+<begin> i watch some but im very picky about them <end>	<begin> mai kuch ko dekhta hu par mai unke bare me bahut hi picky hun <end>
+<begin> not really ill watch them on occasion <end>	<begin> not really mai unhe occasionally dekhta hu <end>
+<begin> i dont like when they sing the dialogue <end>	<begin> wo jab dialogue sing karte hai tab mujhe pasand nahi aata <end>
+<begin> same <end>	<begin> same <end>
+<begin> what about dramas <end>	<begin> drama kaisa tha <end>
+<begin> im a movie buff in general <end>	<begin> main movie ke bare mein bahut janta hun <end>
+<begin> what was your favorite scene i liked the one while they were doing a gig at a restaurant <end>	<begin> tera favorite scene kaun sa tha mujhe wo achha laga jo restaurant mein kar rahe the <end>
+<begin> i heard good things about la la land but havent see it irl yet <end>	<begin> maine bahut suna hai la la land ke bare mein lekin abhi tak real life mein dekha nahi <end>
+<begin> how were the songs <end>	<begin> songs kaise the <end>
+<begin> sappy and showtune like <end>	<begin> bilkul sappy aur showtune ki tarah <end>
+<begin> he was playing in a s pop cover band <end>	<begin> wo <number> s ka pop cover band baja raha tha <end>
+<begin> not bad though <end>	<begin> itna bad nahi tha <end>
+<begin> sounds like music lyrics <end>	<begin> music aur lyrics ki tarah tha <end>
+<begin> do you agree with the rating <end>	<begin> tujhe rating sahi laga <end>
+<begin> seemed inflated to me but i still need to see it <end>	<begin> mere liye yeh inflated hai but phir bhi main isse dekhunga <end>
+<begin> i thought emma stone did a fantastic job though <end>	<begin> jabki mujhe lagta hai ki emma stone ne bahut badiya kam kiya hai <end>
+<begin> jazz pianist doesnt get me excited <end>	<begin> jazz panist mujhe excited mhi kar paya <end>
+<begin> i like john legends music and voice though <end>	<begin> jabki mujhe john lagend ki awaaz or music bahut pasand aaya <end>
+<begin> yeah one of the critics said mias character was a little dull and sebastian is a jazz snob <end>	<begin> han kuch critics mein se ek ne kaha ki mia ka character thoda dull tha or sebastian jazz snob hai <end>
+<begin> me too <end>	<begin> mujhe bhi <end>
+<begin> imdb ratings usually arent that high <end>	<begin> imbd ki ratings jyadatar high nhi hoti <end>
+<begin> ill have to check it out kind of forgot about this one <end>	<begin> mujhe ye dekhna hoga lagta hai ki iske baare mein bhull gya huin <end>
+<begin> maybe on a date night <end>	<begin> shayad date night pe <end>
+<begin> ive never heard of the director damien chazelle <end>	<begin> maine kabhi director damien chzelle ke baare mein nhi sunna <end>
+<begin> neither have i but with scores like that ill have to check out some other films <end>	<begin> neither mere paas hai lekin is tarah ke score ki kuchh other movies check karanee hogee <end>
+<begin> i really liek ryan goslings character as well <end>	<begin> mene ryan goslings ka bhi character really like kiya <end>
+<begin> i didnt like the scene where mia left him at the end though it was sad <end>	<begin> mene voh scene pasand nahi kiya jisme mia end me use cchor deti heyadhyapi ye sad tha <end>
+<begin> spoiler alert <end>	<begin> spoiler ki chetavani <end>
+<begin> still worth watching <end>	<begin> still dekhane layak he <end>
+<begin> do you like superhero movies <end>	<begin> tujhe superhero movies pasand hain <end>
+<begin> love them do you like dc or marvel more <end>	<begin> bahut pasand hain tujhe dc or marvel kaun si zyada pasand hai <end>
+<begin> marvel is my jam but the avengers are pretty cool <end>	<begin> marvel is my jam lekin avengers bhi cool hai <end>
+<begin> are you excited about infinity wars <end>	<begin> kya tum infinity wars ke liye excited ho <end>
+<begin> absolutely if its anything like the first one itll be great plus i dont think joss whedon can do any wrong lol <end>	<begin> bilkul agar woh first wali ke jaisi hai to great hogi plus mujhe nahin lagta joss whendon kuch wrong kar sakta hai lol <end>
+<begin> me either he did such a good job with avengers if he had failed their is no way they would be releasing infinity wars in may <end>	<begin> mujhe bhi usne avengers mein acha kam kiya hai agar woh usme fail hota to no way woh may mein infinity wars release kartey <end>
+<begin> yep the only thing i really didnt think would work is having robert jr be part of a team he seems to be more of a lone wolf type <end>	<begin> haan ek hi baat mujhe lagta hai work nahin karti woh hai robert jr ka team mein hona woh loan wolf type zyada lagta hai <end>
+<begin> he is the leader of the pack i really dont think the averages would be as popular as it is if he wasnt the leader of the team <end>	<begin> woh pack ka leader hai main nahin samjhta avengers itne popular hote agar woh leader nahin hota team ka <end>
+<begin> this is true too <end>	<begin> yeh bhi true hai <end>
+<begin> who is your favorite member from the first avengers <end>	<begin> tumhara favorite member kaun hai first avengers mein se <end>
+<begin> thor lol ive always liked the character in the comics so i was really excited to see it played out in a movie <end>	<begin> thor lol mujhe hamesha comics ka character pasand aaya toh main bahut excited tha dekhne wo movie mein kaise play hua <end>
+<begin> wbu <end>	<begin> wbu <end>
+<begin> love thor even more now after his third movie my favorite is captain america hes the most interesting character to me <end>	<begin> thor se ab aur zyada mohabbat hai uski third movie ke baad mera favorite hai captain americawo sub se interesting character hai mere liye <end>
+<begin> which member do you dislike <end>	<begin> aap kaunse member ko dislike karte ho <end>
+<begin> black widow her character just didnt pop for some reason <end>	<begin> kaali widow kisi wajah se uska character pop nahi hua <end>
+<begin> same here i feel as they couldve done without her do you think she should have her own movie <end>	<begin> yaha bhi wahi i feel uske begair bhi ho sakta tha kya aap ko lagta hai uski own movie honi chahiye <end>
+<begin> maybe it would help build her character up and she wouldnt seem as flat <end>	<begin> shayad usko character build karne madad milegi aur wo flat nahi lagegi <end>
+<begin> marvel movies dont flop but i feel as if her would flop <end>	<begin> marvel movies flop nahi hote lekin mujhe lagta hai uske flop honge <end>
+<begin> how do you feel about loki <end>	<begin> loki ke baare mein tumhe kya lagta hai <end>
+<begin> i like his character thats what i named my dog lol <end>	<begin> mujhe uska character pasand hai maine apne dog ka wahi naam rakha lol <end>
+<begin> i love that lol i wish they would make a movie about him <end>	<begin> mujhe vah pyaar hai kaash ve usake baare mein ek philm banaate <end>
+<begin> is it weird to you that the avengers has such a high critic rating most critics dont like super hero movies <end>	<begin> is it weird to you that the avengers has such a high critic rating most critics dont like super hero movies <end>
+<begin> i was just looking at that i thought that was weird too lol its got some pretty big actors in it though so maybe theyre fans lol <end>	<begin> main bas usee ko dekh raha tha mujhe laga ki ajeeb sa lol tha yah kuchh bahut bade abhinetaon mein mila hai haalaanki shaayad ve prashansakon ke yogy hain <end>
+<begin> how do you feel about hawkeye <end>	<begin> hawkeye ke baare mein aapaka kya khyaal hai <end>
+<begin> hello <end>	<begin> namaste <end>
+<begin> still there <end>	<begin> abhee tak vaheen <end>
+<begin> hello <end>	<begin> hello <end>
+<begin> hi bruce almighty is the movie we will be talking about it is a comedy starring jim carrey and morgan freeman <end>	<begin> hi hum jiske baare me baat karege wo bruce almighty hai ye ek comedy movie jisme star jim carrey aur morgan freeman hai <end>
+<begin> have you seen this movie before i have seen this back when it first came out <end>	<begin> kya tumhe ye movie pehle dekhi hai maine ise pehle dekha tha jab se first aayi thi <end>
+<begin> i have its very funny carrey is hilarious and i love morgan freeman <end>	<begin> maine dekhi hai ye bahtu funny hai carrey bade hilarious hai aur i love morgan freeman <end>
+<begin> yes jim carrey was much more hilarious back in the days morgan freeman will always be the sound of god to me <end>	<begin> yes jim carry pehle ke dino me aur jyada hilarious the morgan freeman hamesha god ki tarah sound karte hai <end>
+<begin> would you rewatch the movie <end>	<begin> kya tum ye movie rewatch karoge <end>
+<begin> honestly i love freemans voice jennifer anniston was also very good but i did feel sorry for her character <end>	<begin> honestly mujhe freemans ki voice pasand hai jennifer anniston bhi bahut acchi thi but mujhe unke character ke liye khed hai <end>
+<begin> yes bruce almighty is one of my go to movies <end>	<begin> yes bruce almighty meri go to movies me se ek hai <end>
+<begin> the cinemascore for this movie is an a im not surprised at all to hear that all of the actors did a fabulous job <end>	<begin> is moive ka cinemascore a hai mujhe se sun kar koi surprise nahi hua sabhi actors ne fabulous kaam kiya hai <end>
+<begin> yes i feel sorry for her character but her character sounds too much like her friends days <end>	<begin> yes mujhe unke character ke liye khed hai par unha character bahut kuch freinds days ki tarah tha <end>
+<begin> i do not think i would rewatch this movie <end>	<begin> hume lagta nehi ke hum dobara ye movie dekhenge <end>
+<begin> yes i agree that her character was very much a friends style role <end>	<begin> ha main bhi agree kartahoo ke uska character bahot friendly hai <end>
+<begin> oh why not do you not like comedies <end>	<begin> kiu nehi tum ko comedies achcha nehi lagta <end>
+<begin> rotten tomatoes has a rotten score for it so i think i am swayed by that <end>	<begin> rotten tomatoes ke pas ek rotten score hai iske liye mujhe lagta hai ke hum usise behe haye hai <end>
+<begin> oh but the cinemascore is an a <end>	<begin> lekin iss cinema ka score a hai <end>
+<begin> comedies seem to be very cliche and there does not seem to be one that i have favored in awhile <end>	<begin> comedies kavi kavi bahot cliche hotehe lekin humko iye kavi passand nehi hai <end>
+<begin> well i think the actors all did a fabulous job and the three main actors are all very good actors <end>	<begin> mujhe lagta he ke sabhi actor achcha acting kiya hai lekin tin main actors bahot hi achcha kiya hai <end>
+<begin> morgan freeman is a good in all his roles <end>	<begin> morgan freeman sob roles bahot hi achcha karta hai <end>
+<begin> however i cannot say the same for jim carrey as he has had a downward spiral these years <end>	<begin> jim carrey ke bareme hum ye abhi kehe nehi sakte kiu ke is sal pe wo achha nehi kiya <end>
+<begin> totally totally agree morgan freeman is the bomb <end>	<begin> hum bhi tumse pura agree kartehe ke morgan freeman bomb hai <end>
+<begin> and jim carrey has bombed in so many but he outdid himself in this movie <end>	<begin> aur jim carrey ne kahi saare bombed kiya lekin voh usske outdid apne movie mein di <end>
+<begin> it seems like i will have to rewatch it in the end <end>	<begin> muje lagtha hein ki mein dubara iska end watch karunga <end>
+<begin> i like how he uses his new powers to cause such miraculous events to occur at otherwise mundane events <end>	<begin> muje pasand hein jab voh apni new powers ko use kar raha tha us miraculous events ko cause karne aur usse mundane events ko occur kari <end>
+<begin> i dont like how he embarrases his other co worker but at the same time the character evan was such an ass <end>	<begin> muje pasand nahi kyon ki voh itna embarrases huva apni co worker ke saath aur same time us evan ka character tho bakvas tha <end>
+<begin> lol very true it sure makes the situation crazier that it should be <end>	<begin> lol sach hein yar isse tho aur crazier ban jaatha is situation ko <end>
+<begin> i probably would have done the same if i had been in bruces situation lol <end>	<begin> mein bhi aise hi kartha is bruce ka situation ko lol <end>
+<begin> likewise i kind of wish i had his powers so i could do the same lol <end>	<begin> agar mera paas aise kuch powers hota tho mein bhi aise hi kartha lol <end>
+<begin> and of course god morgan freeman steps in to save the day and tells bruce what he should do <end>	<begin> ofcourse god yaani morgan freeman ne apna din ko save kara aur bruce ko bola <end>
+<begin> seriously did you know it knocked off the matrix reloaded from the box office during its first week <end>	<begin> seriously kya voh vaakahi mein matrix reloaded ko knocked off kiya us box office me se voh bhi first week mein <end>
+<begin> noooo i didnt know that i enjoyed the first matrix but the other two were trying to hard to be the hit the first one was saying that i can see why it knocked it out of its place <end>	<begin> nahi muje nahi patha lekin mein first matrix tho enjoy kar rahi thi lekin voh dono tho aapas mein hit kar rahe the bolte hein ki kyon muje is place se knocked out kiya <end>
+<begin> when it all comes down to it this is one of my favorite movies im not a big movie fan but this is one i can rewatch many times <end>	<begin> sabki baat karun to ye one of my favorite movies hai main kafi bada movie fan nahi hun par ye wo movie hai jo maine many times rwatch ki <end>
+<begin> true that pretty impressive for jim carreys career i hope you didnt watch evan almighty lol <end>	<begin> ye sach hai jim carrey ke career ke liye kafi impressive i hope tumne evan almighty nahi dekhi <end>
+<begin> have you ever seen inception if not you should its complicated but very good <end>	<begin> tumne inception dekhi hai if not you should complicated hai par kaafi acchi ha <end>
+<begin> leonardo dicaprio and joseph gordon levitt are in it <end>	<begin> leonardo dicaprio aur joseph gordon levitt hain usme <end>
+<begin> have you ever seeleonardo dicaprio and joseph gordon levitt are in itn inception if not you should its complicated but very good <end>	<begin> tumne kabhi inception dekhi hai leonardo dicaprio aur joseph gordon levitt hain usme if not you should complicated hai par kaafi acchi ha <end>
+<begin> they go into peoples minds to steal information <end>	<begin> woh logo ke mind main jaate hain to steal information <end>
+<begin> yes <end>	<begin> haan <end>
+<begin> even ellen page is in it and i love her <end>	<begin> ellen page bhi hai usme i love her <end>
+<begin> i also love her <end>	<begin> i also love her <end>
+<begin> the people who go into other peoples minds are called extractors <end>	<begin> jo log dosaron ke mind main jaate hain unhe extractors kehte hain <end>
+<begin> yes <end>	<begin> yes <end>
+<begin> it has an <number> on rotten tomatoes so thats pretty good <end>	<begin> rotten tomatoes main uska <number> hai so kaafi accha hai <end>
+<begin> yes <end>	<begin> haan <end>
+<begin> the first scene kind of explains how going in someones mind works <end>	<begin> first scene explain karta hai kaise kisi ka mind kaam karta hai <end>
+<begin> in a team people have to set up kicks to wake each other up from sleeping how they go into a mind i guess <end>	<begin> team mein logon ko kicks set up karna hai ek doosre ko sleep se wake up karne ke liye kaise mind ke andhar jate hain main guess karon <end>
+<begin> but some people have defenses in their subconsciousness and the team gets attacked in one guys mind <end>	<begin> lekin kuch logon ke paas subconsciousness mein defenses hain aur team attack hota hai bande ke mind mein <end>
+<begin> if the guy dies will in another persons mind he may get stuck in an infinite limbo where he forgets hes dreaming <end>	<begin> banda agar doosre ke mind me mar jaye to woh stuck ho jayega infinite limbo mein jahan woh bhool jata hai ki woh dream mein hai <end>
+<begin> youre a very slow typist considering how exciting this movie is <end>	<begin> tum bahut slow typist ho considering kitna exciting hai ye movie <end>
+<begin> if the guy dies will in another persons mind he may get stuck in an infinite limbo where he forgets hes dreaming <end>	<begin> banda agar doosre ke mind me mar jaye to woh stuck ho jayega infinite limbo mein jahan woh bhool jata hai ki woh dream mein hai <end>
+<begin> thats very true do you have any questions <end>	<begin> woh bahut sahi haikya tumhe koi questions hai <end>
+<begin> do you like scientific movies <end>	<begin> tumhe scientific movies pasand hai <end>
+<begin> i would love to tell you more about this movie but you dont seem interested <end>	<begin> main is movie ke bare mein batana chahtha hoon lekin tum interested nahin ho <end>
+<begin> well i think im going to go then you should see inception <end>	<begin> ok mi ne socha hi ki mi ne jana hi bad me aap compulsory dekho inception <end>
+<begin> no <end>	<begin> nahi <end>
+<begin> hi i want you to check out the shape of water by guillermo del toro <end>	<begin> hi main chahta hun tum guillermo del toro ki the shape of water check karo <end>
+<begin> hello that movie sounds interesting could you give a little review <end>	<begin> hello ye movie interesting lagti hai kya tum kuch aur review de sakte ho <end>
+<begin> it has rotten tomatoes <number> rating and got an a from cinemascore it is an american fantasy drama a love story <end>	<begin> iski rotten tomatoes <number> rating hai aur isey cinemascore se a mila ye american fantasy drama ek love story hai <end>
+<begin> great what is the plot <end>	<begin> great plot kya hai <end>
+<begin> the plot is about a mute cleaner who works in a secret government lab and falls in love with an amphibian being trapped in the lab <end>	<begin> plot mute cleaner hain jo secret government lab mein work karta hai aur ek lab mein trap ho rahe amphibian se pyar karne lagta hai <end>
+<begin> that sounds intriguing and how that amphibian got the lab <end>	<begin> ye intriguing lagta hau aur wo amphibian lab mein kaise pahuncha <end>
+<begin> the amphibian was captured in the amazon river and brought to the lab to study <end>	<begin> amphibian amazon river mein capture hua tha aur study karne ke liye lab mein laya gaya <end>
+<begin> they are trying to study the amphibian so that they can get an edge over the russians during the arms race <end>	<begin> wo amphibian ko study karne ka try kar rahe hai taki wo arms race mein russian ke upar edge paa sakein <end>
+<begin> they stun and immobilize the creature and then lock him in the lab for study <end>	<begin> wo us creature ko stun aur immobilize kar dete hai aur lab mein study ke liye lock kar dete hain <end>
+<begin> awesome fantasy and thrilling argument of the rivalry between us and the soviets <end>	<begin> us aur soviets ki rivalry ki ye awesome fantasy aur thrilling argument hai <end>
+<begin> yeah and dont forget it won a bunch of awards including best picture <end>	<begin> yeah aur bhulo mat isne kafi awards jeetey including best picture <end>
+<begin> the main characters are played by who <end>	<begin> main characters kisne play kiya hai <end>
+<begin> sally hawkins plays the mute cleaner <end>	<begin> sally hawkins mute cleaner play kar rahi hai <end>
+<begin> also there is michael shannon as the antagonist richard jenkins as elisas friend and octavia spencer as her friend also <end>	<begin> as the antagonist michael shannon hai richard jenkins as elisas friend aur octavia spencer bhi as her friend hai <end>
+<begin> i am not really familiar with sally hawkins however michael shannon and richard jenkins are great actors <end>	<begin> main sally hawkins se zyada familiar nahi hun lekin michael shannon and richard jenkins great actors hain <end>
+<begin> i should take some time to see this movie definitely <end>	<begin> mujhe is movie ko dekhne ke liye definitely kuch time nikalna chahiye <end>
+<begin> yeah i agree michael shannon makes a great enemy and richard jenkins is always a great character actor <end>	<begin> haan i agree michael shannon great enemy banta hai aur richard jenkins hamesha ek great character actor hai <end>
+<begin> yes i always try to check out the movies that win best picture more often than not they are good <end>	<begin> haan main hamesha wo movies check karta hun jo best picture jeet ti hain zyadatar time wo achi hoti hain <end>
+<begin> do you know how we tell when we are done <end>	<begin> kya tumhe pata hai ki kaise pata chalta hai ki ho gaya <end>
+<begin> yeah i have that habit too and guillermo del toro totally deserved that award his work is always pleasant to watch <end>	<begin> han meri bhi wo habit hai aur guillermo del toro totally wo award deserve karta hai uska work hamesha dekhne ke liye acha hota hai <end>
+<begin> yeah i liked pans labyrinth too <end>	<begin> yeah mujhe bhi pans labyrinth pasand aaya <end>
+<begin> i try to follow what he is doing and watch most of his films <end>	<begin> main wo jo karta hai use follow karne ki try karta hoon aur uske most of the films dekhta hoon <end>
+<begin> do you know what else we are supposed to do for this hit im not sure what the next step is <end>	<begin> kya tumhe pata hai aur kya karne jai hame is hit me mujhe nahin maloom next step kya hai <end>
+<begin> surely pans labyrinth is one of the movies for what he will be remembered <end>	<begin> sahi mein pans labyrinth ek aisa movie hai jiske liye unhe remember kiya jayega <end>
+<begin> yes he has a way of creating different worlds and interesting creatures <end>	<begin> haan uska ek way to different worlds aur interesting creatures create karne kaa <end>
+<begin> do you something else about the shape of water some fun facts or something <end>	<begin> kya tumhe aur kuch pata hai shape of water ke baare mein kuch fun facts ya something <end>
+<begin> yeah i found it kinda weird to have love scenes between the human and the amphibian hehe <end>	<begin> haan mujhe kuch wierd laga amphibian aur human ke beech mein love scenes hehe <end>
+<begin> but everything is done pretty artfully etc <end>	<begin> lekin sab kuch pretty artfully kiya gaya hai <end>
+<begin> well it is kind of funny but it was already done in previous movies such as the little mermaid i think but less visually of course <end>	<begin> ye kuch funny hai lekin mere khyal se ye previous movies me kiya gaya tha jaise the little mermaid lekin beshak less visually <end>
+<begin> the main character uses sign language to talk to the creature <end>	<begin> main character isme creature se baat karne e liye sign language use karte hain <end>
+<begin> you have to realize that the main character was orphaned and also found in a river with wounds on her neck <end>	<begin> tumhe samajhna padega ki main character orphaned hai aur river mein mila tha neck pe wounds ke sath <end>
+<begin> that makes perfect sense since hally is acting as a mute that would imply that this creature is quite smart too <end>	<begin> sahi lag raha hai since hally mute ki acting kar rahi hai ye imply karega ki creature bhi kafi smart hai <end>
+<begin> what were the shape of those neck marks <end>	<begin> wo neck marks ke shape kya they <end>
+<begin> yes it is definitely implied there is a lot of symbolism and allegory in the film <end>	<begin> han ye implied hai is film me kafi symbolism and allegory hai <end>
+<begin> they are like slashes from a knife kinda mirroring the gills of the amphibian creature <end>	<begin> wo knife ke slashes ki tarah hai jaise amphibian creature ke gills ko mirror kar raha ho <end>
+<begin> that is highly curious could you describe some film scenes <end>	<begin> ye kafi curious hai kya tum kuch film scenes describe kar sakte ho <end>
+<begin> sure elisa main character keeps the creature in her bathtub with salts he cannot survive that long out of water <end>	<begin> sure elisa main character creature ko bathtub mein rakhti hai salts ke saath wo out of water zyada der nahi reh sakta <end>
+<begin> hello <end>	<begin> hello <end>
+<begin> hi have you seen the blindside with sandra bullock <end>	<begin> hi kya aap blindside with sandra bullock ko dekha <end>
+<begin> no i havent have you <end>	<begin> nahi yar aap <end>
+<begin> yes are you a sports fan <end>	<begin> haan yeh tho sports fan ka hein <end>
+<begin> yes are you <end>	<begin> haan aap <end>
+<begin> i was raised in a sports family and i am a movie fan this is based on a true story <end>	<begin> mein tho sports family ka hoon aur mein tho is movie ka fan hoon yeh tho true story mein based kiya hein <end>
+<begin> what is the true story <end>	<begin> kya yeh true story hein <end>
+<begin> it the story of michael oher who in high school was adopted by a white family and with their support went to college on a football scholarship and was drafted by the ravens in the pros <end>	<begin> is story mein micheal jo highschool me us white family ko adopted kiya aur college ke liye uska support liya us football scholarship ke liye aur ravens ke liye uska drafted kiya <end>
+<begin> oh wait i think ive heard about this <end>	<begin> acha wait kar mein iske baare mein kuch suna hein <end>
+<begin> i think i know the football player it was based on <end>	<begin> muje lagtha ki yeh football player ke baare mein hein <end>
+<begin> was it good <end>	<begin> kya ye achi hai <end>
+<begin> it is a feel good movie that has a sports angle yes a lot like hoosiers i took my sons to see it it really is a family movie <end>	<begin> kya ye feel good movie hai jisme sports angle hai han kafi kuch hossiers ki tarah main apne beton ko le gaya isey dikhane ke liye ye really ek family hai <end>
+<begin> ive never seen hoosiers would you say blind side is one of the best sports movies ever <end>	<begin> maine hooseirs kabhi nahi dekhi kya tum ye kahoge ki blind side best sports movie mein se ek hai <end>
+<begin> michael was in foster care due to his mothers drug addiction he ran away from foster homes a coach of a private school recruits him into high school but he seems so far behind academically it seems impossible for him to graduate it is a great sports movie <end>	<begin> michael foster care mein tha apni maa ke drug addiction ki wajeh se wo foster homes se bhag jata hai ek private school ka coach usey high school mein recruit kar leta hai par wo academically kafi peeche lagta hai aur uska graduate hona impossible lagta hau ye kafi great sports movie hai <end>
+<begin> why did he run away from the foster homes abuse <end>	<begin> wo foster homes se kyun bhaa jata hai abuse ki wajeh se <end>
+<begin> it is also one that shows the bond of the adoptive mother and the ability for an underprivileged kid to overcome adversity <end>	<begin> ye adoptivemother ka bond aur underprivileged kid ki adversity ko overcome karne ki ability bhi dikhata hai <end>
+<begin> is it also a story about racial harmony <end>	<begin> kya ye racial harmony ke bare mein bhi story hai <end>
+<begin> i think he overheard from the foster parents that he was not welcome in their home <end>	<begin> mujhe lagte hai usne foster parents ko overhear kar liya ki wo ghar mein welcome nahi hai <end>
+<begin> because he was black <end>	<begin> kyunki wo black tha <end>
+<begin> he was that and also very difficult to communicate with <end>	<begin> wo tha aur uske saath communicate karna bhi kaafi difficult tha <end>
+<begin> why was he hard to speak with <end>	<begin> kyon voh itna kadva baath kiya <end>
+<begin> i think he was withdrawn from living in the projects and have a drug addicted mother he was taken in by the white family when they realized he was hanging out in the gym her friends thought she was crazy to take him in the hired a tutor to help him get through high school <end>	<begin> muje lagtha hein ki voh apne projects se withdraw kara hoga kyon ki uske paas drug addicted ma tho hei jab voh gym mein they tho usko white family ne lei liya hai uska friends tho crazy they uske liye yek tutor ko hired kiya usko high school mein help karne ko <end>
+<begin> what motivated the foster mom to take him in did she a black ex lover <end>	<begin> tho foster mom ko kya motivated huva usse yaha lekhe aane ki voh black ka exlover hein kya <end>
+<begin> i think she just felt that they were wealthy enough to help a deserving kid he test high in protective instincts so she told him his job was to protect the quarterback from then on he became good enough to be recruited for college teams <end>	<begin> muje lagtha hein ki voh aise kuch socha hoga ki voh kaafi wealthy hein aur voh apne kid ko help karenge voh protective instincts ko test karthe aur usse job bhi mil jaatha aur quarterback ko protect kartha yeh college team ke liye good enough hein <end>
+<begin> thats nice of her did he pay her back eventually <end>	<begin> ache hein yar kya use eventually pay miltha <end>
+<begin> i think it also really bothered her that their family took so many privileges for granted <end>	<begin> muje lagtha hein ki voh usse kuch bothered huva aur voh apni family ko kahi privileges par le chali <end>
+<begin> what was wrong with her own family <end>	<begin> uska own family mein kya wrong hein <end>
+<begin> they were very successful and had a lot of money micheal just never had the opportunities after becoming a member of the family he tried to go back to visit his mother but realized she had been evicted he told the ncaa he chose to go to ol miss because that is where his family goes <end>	<begin> voh successfull they aur unke paas jyada money hein michael tho kabhi opportunity nahi mila lekin unke family member hone ke baad usse uska mother ko mila aurusse realized huva ki voh evicted hein voh ncaa ko bhi bola kyon ki voh apni family pyar kartha hein <end>
+<begin> did the mom eventually get better <end>	<begin> kya uska mom eventually ache thie <end>
+<begin> the birth mother doesnt show up in the movie micheal does go off to college <end>	<begin> is movie mein maa ka birth isme nahi dekhayei gaye michael tho college nikla <end>
+<begin> hi how is it going <end>	<begin> hi kaisa chal raha hai <end>
+<begin> good how are you <end>	<begin> good tum kaise ho <end>
+<begin> im reading about batman begins it is a very good movie <end>	<begin> main batman begins read kar raha hoon bahut achi movie hai <end>
+<begin> i enjoyed it also do you know who played alfred in that one <end>	<begin> maine bhi enjoy ki kya tumhe pata hai alfred ka role kisne play kiya tha <end>
+<begin> micheal caine <end>	<begin> michael caine ne <end>
+<begin> he did a really good job <end>	<begin> usne bahut acha work kiya hai <end>
+<begin> i enjoyed morgan freeman also but he is amazing in all of his work <end>	<begin> maine morgan freeman ko bhi enjoy kiya but woh apne sab hi works mein amazing hai <end>
+<begin> thats right i thought he was great he is the best alfred i agree about morgan freeman as well <end>	<begin> bilkul sahi main bhi sochta hoon woh great hai woh best alfred hai main morgan freeman key baare mein bhi agree karta hoon <end>
+<begin> the critics thought that the movie explored batmans damaged psyche what do you think <end>	<begin> critics sochte hain ki movie ne batman key damaged psyche ko explore kiya haitumhe kya lagta hai <end>
+<begin> i have to say so the insight they provide about how he became batman was eye opening it was really sad to see him lose his parents like that <end>	<begin> main bhi yahi samjhta hoon jo insight di hai ki woh batman kaise bana woh aankh kholne wali hai dekh ke bahut dukh hua ki usne apne parents ko kho diya <end>
+<begin> stuff like that really makes a person question their purpose in life <end>	<begin> iska stuff tho aise hein ki koi person bhi apne life ka purpose ka question ho saktha hein <end>
+<begin> i agree i can see why it led to batman pursuing a life of crime fighting <end>	<begin> mein maantha hoon muje bhi dikh raha hoon ki yeh batman apni life ka crime ko fight karne ka pursuing kartha hein <end>
+<begin> can you see page <number> my page is blank <end>	<begin> ka aap page <number> dekha mera page tho blank hein <end>
+<begin> mine is blank also <end>	<begin> mera bhi blank hein <end>
+<begin> okay so i wonder what were supposed to exchange messages about <end>	<begin> acha tho kya hum aapas mein message share kar sakthe hein kya <end>
+<begin> lol not quite sure <end>	<begin> itna bhi sure nahi hei yar <end>
+<begin> what did you think about katie holmes performance <end>	<begin> katie holmes ka performance ke baare mein aapka kya khayal hein <end>
+<begin> i think she was an appropriate love interest but her acting was just okay <end>	<begin> muje lagtha ki vo love interest mein tho badiya appropriate thi aur uska acting tho thik hi tha <end>
+<begin> i agree it seems like she holds back on her emotions very dull <end>	<begin> mein bhi maantha hoon voh apni emotions ache tarah hold karti lekin dhoda dull lagi <end>
+<begin> my second paragraph just came up <end>	<begin> mera second paragraph abhi aaya <end>
+<begin> mine also <end>	<begin> mere paas bhi <end>
+<begin> i didnt remember the part about the swarm of bats <end>	<begin> muje us swarms ka bats kuch yaad nahi hein <end>
+<begin> oh yeah he fell in the well and a ton of bats were swarming him he was initially afraid of t hem <end>	<begin> acha voh well mein gir jaatha aur bahut bats ne usse swarming kartha voh initially afraid tha <end>
+<begin> the scene when they blow the powder in his face and he starts seeing things that was pretty wicked <end>	<begin> jab voh uska face mein powder dala tho usse sabhi dekh jaathi us scene mein thoda wicked nazar aatha <end>
+<begin> i believe the fear of bats is what led him to leave the opera where his parents were murdered <end>	<begin> muje lagtha ki voh bats ka fear hein jo use opera mein chod detha jo uske parents ka murdered huva tha <end>
+<begin> oh really i did not see that part i remembered he was scared but forgot what the play was about <end>	<begin> acha mein is part ko nahi dekha muje bas itna yaad hein ki voh dargaya jab voh sabhi bhool jaatha <end>
+<begin> the powder scene was very scary i cannot believe they had an antidote <end>	<begin> voh powder scene tho badi scary hein muje yakin hi nahi hota ki voh antidote hein <end>
+<begin> i forgot how long the movie was there were a lot of scenes and changes of events <end>	<begin> mein tho bhool bhi gayi ki yeh movie itna long hein aur kaafi scene changes bhi ho chuki hein <end>
+<begin> alfred is such a hero in the movie constantly saving bruce <end>	<begin> alfred tho is movie ka hero hein aur bruce ko constantly save kar raha tha <end>
+<begin> i cannot believe his mansion burnt down in flames <end>	<begin> mein yakin hi nahi hota ki voh mansion mein burnt ho jatha <end>
+<begin> love alfred he is the backbone <end>	<begin> alfred ko main love karta hun wo to backbone tha <end>
+<begin> i know the fire scene was horrible <end>	<begin> mujhe pata hai fire scene horrible tha <end>
+<begin> it was really sad because it was his parents house right <end>	<begin> ye bohat sad tha kyunki wo uske parents ka ghar tha right <end>
+<begin> i think so the bad guys work so harder at being bad the effort could be used for something good with a lot more success <end>	<begin> mujhe aisa lagta hai bad guys bad banne ke liye kafi hard work karte hain us effort ko kuch acche ke liye use kiya ja sakta hai kafi zyada success ke saath <end>
+<begin> what do you think of the character of sgt gordon <end>	<begin> sgt gordon ke character ke bare mein kya khayaal hai <end>
+<begin> exactly but some would rather be evil for their own personal gain than to help others <end>	<begin> exactly lekin kuch log khud ke personal gain ke liye evil hona pasand karenge dusron ki help karne ki bajaye <end>
+<begin> i like him also but i felt bad for him he seems to be dismissed often as a key player in batman <end>	<begin> mujhe bhi wo acha lagta hai par mujhe uske liye bura laga lagta hai wo batman mein as a key player kafi bar dismiss hota hai <end>
+<begin> i agree he was one of the few honest people in it for the right reasons <end>	<begin> main agree karta hu wo thode bahut hi honest logo mein se ek tha sahi kaam ke liye <end>
+<begin> didnt they try to cut off gotham from the surrounding cities by raising the draw bridge <end>	<begin> kya unhone gotham ko aas paas ki cities se cut off karne ki koshish nahi ki draw bridge ko raise kar ke <end>
+<begin> i think so do you think we are done have we submitted enough turns <end>	<begin> mujhe to yahi lagta hai kya tumhe lagta hai ho gaya kya humne enough turns submit kar di hain <end>
+<begin> i am not sure it seems like it has been awhile but it isnt cutting off <end>	<begin> mai sure nahi hu aisa lag raha hai ki ye bahut samay se aisa hai par ye ho nahi raha hai <end>
+<begin> i counted <number> turns on my side and you have at least that many <end>	<begin> maine <number> turn to apne side count ki hai aur tumhare side bhi itni to hongi <end>
+<begin> lets give it one more exchange <end>	<begin> chalo ise ek aur exchange dete hai <end>
+<begin> okay sounds good <end>	<begin> okay sounds good <end>
+<begin> i think it is very sad that bruce thought about killing chill that would have made him dark also <end>	<begin> i think ye bahut sad hai ki bruce ne chill ko marne ke bare me socha yeh to use bhi dark bana dega na <end>
+<begin> i know but im glad he prevailed <end>	<begin> i knowbut mai glad hu ki usne aisa nahi kiya <end>
+<begin> yes i agree <end>	<begin> yes i agree <end>
+<begin> im going to push finish conversation now have a good afternoon <end>	<begin> mai ab is conversation ko finish karna chahta huaapki afternoon badhiya ho <end>
+<begin> you too nice talking to you <end>	<begin> tumhari bhi tumse baat karke achcha laga <end>
+<begin> hi how is it going <end>	<begin> hi kya haal chaal hein <end>
+<begin> good how are you <end>	<begin> good aap <end>
+<begin> im reading about batman begins it is a very good movie <end>	<begin> mein batman begins pad raha hoon ache movie hein <end>
+<begin> i enjoyed it also do you know who played alfred in that one <end>	<begin> mein bhi enjoy kar raha tha kya aap ko patha hein ki alfred ka role kon play kar raha tah <end>
+<begin> micheal caine <end>	<begin> michael caine ne <end>
+<begin> he did a really good job <end>	<begin> voh tho badiya job kar raha hein <end>
+<begin> i enjoyed morgan freeman also but he is amazing in all of his work <end>	<begin> mein morgan freeman tho enjoy kar raha hoon aur uska kaam tho amazing hein <end>
+<begin> thats right i thought he was great he is the best alfred i agree about morgan freeman as well <end>	<begin> haan yar muje bhi pasand hein voh badiya alfred hein muje morgan freeman bhi pasand hein <end>
+<begin> the critics thought that the movie explored batmans damaged psyche what do you think <end>	<begin> the critics ka movie jo batman ko psyche se damage kiya tha na tho uske baare mein aapko kya socha <end>
+<begin> i have to say so the insight they provide about how he became batman was eye opening it was really sad to see him lose his parents like that <end>	<begin> muje bhi iske baare mein kuch kehana tha voh insight jo usne provide kiya tha ki kaise batman apne eyeopening bane uska parents aise usse chod de samay tho muje uske liye bura laga <end>
+<begin> stuff like that really makes a person question their purpose in life <end>	<begin> is tarah ka stuff ek person ko uske life purpose question karne ko mazbur kar deta hai <end>
+<begin> i agree i can see why it led to batman pursuing a life of crime fighting <end>	<begin> i agree main samjh sakta hu kyun iski wajeh se batman crime fighting mein life pursue karne lag gaya <end>
+<begin> can you see page <number> my page is blank <end>	<begin> kya tum page <number> dekh sakte ho mera page blank hai <end>
+<begin> mine is blank also <end>	<begin> mera bhi blank hai <end>
+<begin> okay so i wonder what were supposed to exchange messages about <end>	<begin> okay to main soch raha hun hame kis baare mein messages exchange karna hai <end>
+<begin> lol not quite sure <end>	<begin> lol jyada sure nahi hun <end>
+<begin> what did you think about katie holmes performance <end>	<begin> katie holmes ki performance ke baare mein tum kya sochte ho <end>
+<begin> i think she was an appropriate love interest but her acting was just okay <end>	<begin> mujhe lagta hai wo ek acha love interest hai lekin uski acting just okay hai <end>
+<begin> i agree it seems like she holds back on her emotions very dull <end>	<begin> i agree lagta hai wo apne emotions hold back karti hai bohat dull <end>
+<begin> my second paragraph just came up <end>	<begin> mera second paragraph abhi aya <end>
+<begin> mine also <end>	<begin> mein bhi <end>
+<begin> i didnt remember the part about the swarm of bats <end>	<begin> muje swarm of bats ka part kuch yaad nahihein <end>
+<begin> oh yeah he fell in the well and a ton of bats were swarming him he was initially afraid of t hem <end>	<begin> acha tho voh well mein fell huva tho tons of bats nein swarming ki voh initially afraid tha <end>
+<begin> the scene when they blow the powder in his face and he starts seeing things that was pretty wicked <end>	<begin> jab usne powder uska face mein daala tho usse sab dekhi diya voh pretty wicked hein <end>
+<begin> i believe the fear of bats is what led him to leave the opera where his parents were murdered <end>	<begin> muje tho us bat ka fear samaj hein aur usse vaha hi chod aaye jaha opera ka parents murdered huve the <end>
+<begin> oh really i did not see that part i remembered he was scared but forgot what the play was about <end>	<begin> acha tho mein is part ko nahi dekha muje bas uska scared hi yaad hein aur uska play kuch yaad nahi <end>
+<begin> the powder scene was very scary i cannot believe they had an antidote <end>	<begin> powder scene tho badi scary hein muje yakin hi nahi ki unke paas antidote hein <end>
+<begin> i forgot how long the movie was there were a lot of scenes and changes of events <end>	<begin> muje us movie ka long hi forget huva kaafi saara scenes honge aur events bhi change <end>
+<begin> alfred is such a hero in the movie constantly saving bruce <end>	<begin> alfred tho aise hero hein jo constantly bruce ko save kartha <end>
+<begin> i cannot believe his mansion burnt down in flames <end>	<begin> muje yakin hi nahi hota ki uska mansion flames mein burnt huva <end>
+<begin> love alfred he is the backbone <end>	<begin> alfred se love karo wohi backbone hai <end>
+<begin> i know the fire scene was horrible <end>	<begin> mujhe pata hai ki fire scene horrible tha <end>
+<begin> it was really sad because it was his parents house right <end>	<begin> woh sach mein sad ghatna thi kyonki woh uske parents ka ghar tha hai na <end>
+<begin> i think so the bad guys work so harder at being bad the effort could be used for something good with a lot more success <end>	<begin> mujhe aisa hi lagta hai yeh bad guys bad dikhne ke liye kitna work hard karte hain us effort ko kuch achche kaam ke liye laga sakte hain jis se aur zyada success mile <end>
+<begin> what do you think of the character of sgt gordon <end>	<begin> aap sgt gordon ke character ke baare mein kya sochte hain <end>
+<begin> exactly but some would rather be evil for their own personal gain than to help others <end>	<begin> bilkul kuch log apni personal gain ke liye bure bante hain par doosron ka help karna nahin chahte <end>
+<begin> i like him also but i felt bad for him he seems to be dismissed often as a key player in batman <end>	<begin> main use like karta hoon par uske liye bad feel karta hoon woh batma mein key player hai magar baar baar dismiss hota hai <end>
+<begin> i agree he was one of the few honest people in it for the right reasons <end>	<begin> haan main agree karta hoon kuch honest logon mein right reasons ke liye woh bhi ek tha <end>
+<begin> didnt they try to cut off gotham from the surrounding cities by raising the draw bridge <end>	<begin> kya unhone draw bridge ko raise karke gotham ko surrounding cities se alag nahin kar diya <end>
+<begin> i think so do you think we are done have we submitted enough turns <end>	<begin> mujhe bhi aisa hi lagta hai kya hum kar chuke hain kya hume kaafi turns submit kar diya <end>
+<begin> i am not sure it seems like it has been awhile but it isnt cutting off <end>	<begin> mujhe nahi lagta lagta hai thodi der ho gayi but ye cut nahi ho raha hai <end>
+<begin> i counted <number> turns on my side and you have at least that many <end>	<begin> maine mere <number> turns gine hai apke pas kam se kam utne hone chahiye <end>
+<begin> lets give it one more exchange <end>	<begin> ek aur exchange dete hain ise <end>
+<begin> okay sounds good <end>	<begin> okay sahi lag raha hai <end>
+<begin> i think it is very sad that bruce thought about killing chill that would have made him dark also <end>	<begin> mujhe lagta hai ki yah bahut sad hai ki bruce ne chill ko marne ka socha yah use dark bana deta <end>
+<begin> i know but im glad he prevailed <end>	<begin> mujhe pata hai par mai khush hu ki woh jeeta <end>
+<begin> yes i agree <end>	<begin> han mai shahemat hu <end>
+<begin> im going to push finish conversation now have a good afternoon <end>	<begin> main ab conversation ko khatam karne ja raha hu good afternoon <end>
+<begin> you too nice talking to you <end>	<begin> apko bhi apse baat karke achha laga <end>
+<begin> do you like superhero movies <end>	<begin> kya aapako superhero movies pasand hain <end>
+<begin> love them do you like dc or marvel more <end>	<begin> love them kya aapko dc or marvel adhik pasand hai <end>
+<begin> marvel is my jam but the avengers are pretty cool <end>	<begin> marvel mera jam hai lekin avengers bahut ache hain <end>
+<begin> are you excited about infinity wars <end>	<begin> kya aap infinity wars ke baare mein excited hain <end>
+<begin> absolutely if its anything like the first one itll be great plus i dont think joss whedon can do any wrong lol <end>	<begin> absolutely agar yah pahale kee tarah kuchh bhee hai yah bahut achchha hoga isake alaava mujhe nahin lagata ki joss whedon koee bhee galat kaam kar sakata hai <end>
+<begin> me either he did such a good job with avengers if he had failed their is no way they would be releasing infinity wars in may <end>	<begin> main bhee unhonne avengers ke saath itana achchha kaam kiya yadi vah viphal ho gaya tha to koee raasta nahin hai ki ve maaya mein infinty wars jaaree karenge <end>
+<begin> yep the only thing i really didnt think would work is having robert jr be part of a team he seems to be more of a lone wolf type <end>	<begin> haan keval ek cheej jo mainne nahin socha tha ki kaam karegee robert jr ek teem ka hissa hoga vah ek akela bhediya prakaar adhik prateet hota hai <end>
+<begin> he is the leader of the pack i really dont think the averages would be as popular as it is if he wasnt the leader of the team <end>	<begin> voh pack ka neta hai mujhe nahin lagata ki avengers utana lokapriy hoga jitana ki vah teem ka neta nahin tha <end>
+<begin> this is true too <end>	<begin> yah sach bhee hai <end>
+<begin> who is your favorite member from the first avengers <end>	<begin> pahale avengers mein se aapaka pasandeeda sadasy kaun hai <end>
+<begin> thor lol ive always liked the character in the comics so i was really excited to see it played out in a movie <end>	<begin> thor lol mujhe hmesha se ye character pasand tha so mai bahut wxcited tha usse movie me dekhne ke liye <end>
+<begin> wbu <end>	<begin> wbu <end>
+<begin> love thor even more now after his third movie my favorite is captain america hes the most interesting character to me <end>	<begin> thor ki third movie ke baad i love him more mera favourite captain america hai wo mujhe bahut interesting character laga <end>
+<begin> which member do you dislike <end>	<begin> tumhe konsa member pasand nahi hai <end>
+<begin> black widow her character just didnt pop for some reason <end>	<begin> black widow usko character jyada pop ni kiya for some reason <end>
+<begin> same here i feel as they couldve done without her do you think she should have her own movie <end>	<begin> same here mujhe aisa laga jaise uske bina bhi they couldve done it tumhe lagta usse khud ki movie milegi <end>
+<begin> maybe it would help build her character up and she wouldnt seem as flat <end>	<begin> shayd isse uska character build hoga or wo inta flat nhi lagegi <end>
+<begin> marvel movies dont flop but i feel as if her would flop <end>	<begin> marvel movies flop nhi hoti but i feel as uski movie flop hogi <end>
+<begin> how do you feel about loki <end>	<begin> tumhe loki ke baare me kaisa laga <end>
+<begin> i like his character thats what i named my dog lol <end>	<begin> mujhe uska character pasand hai or maine apne dog ka name woi rakha hai lol <end>
+<begin> i love that lol i wish they would make a movie about him <end>	<begin> muje ye acha laga kaash iske upar ek movie baney <end>
+<begin> is it weird to you that the avengers has such a high critic rating most critics dont like super hero movies <end>	<begin> kya ye tumhe weird lagta hau ki avengers ki itni high critc rating hai jyadatar critics ko superhero movies pasand nahi <end>
+<begin> i was just looking at that i thought that was weird too lol its got some pretty big actors in it though so maybe theyre fans lol <end>	<begin> main isi ko dekh raha tha mujhe bi ye weird laga lol isme kafi badey actors hau to shayad wo inke fans hon lol <end>
+<begin> how do you feel about hawkeye <end>	<begin> tumhe hawkeye ke baar mein kaisa feel hota hai <end>
+<begin> hello <end>	<begin> hello <end>
+<begin> still there <end>	<begin> still there <end>
+<begin> hello so this movie has a pretty good rotten tomatoes score <end>	<begin> hello tho rotten tomatoes ka score tho ache hein is movie ko <end>
+<begin> it does its a great dramatic film <end>	<begin> haan yeh dramatic film hein <end>
+<begin> guillermo del toro generally directs good movies dont you think <end>	<begin> guillermo del toro ne ache movies ko direct kiya aapka kya khayal hein <end>
+<begin> this is the only movie i have seen of his but it was definitely an unusual love story <end>	<begin> yeh yek aise movie jo meine dekha lekin thoda unusual love story hein <end>
+<begin> sally hawkins said so much without saying anything at all <end>	<begin> sally hawkins tho kaafi kuch kiya bina bole <end>
+<begin> she did an amazing job portraying a mute cleaner in this film but the love story was so sad as well <end>	<begin> voh ache job portraying kiya mute cleaner ke tarah is film mein lekin love story tho sad hein <end>
+<begin> yes a love that is basically forbidden that makes for a drama if i ever did see one <end>	<begin> haan love tho basically forbidden huva agar mein dekha hota tho jarur drama kehete <end>
+<begin> no doubt i felt bad for the poor amphibian living in a government laboratory however <end>	<begin> haan yar muje bhi amphibian ke liye bura laga jo government laboratory ke liye kaam kar rahi thi <end>
+<begin> yeah that is something i felt horrible about as well it reminded me of animals in a cage <end>	<begin> haan kuch horrible feel huva muej us animals ko yaad aaya <end>
+<begin> at least this zoo animal had someone who loved it <end>	<begin> atleastyeh zoo animal hein jo koi pasand karega <end>
+<begin> elisas childhood was definitely sad dont you think <end>	<begin> tumhe nahi ki elisa ka childhood definitely sad tha <end>
+<begin> yes very much so i cant even imagine having all of that abuse done to me <end>	<begin> haan very muchmain imagine bhi nahin kar sakti ki agar koi mujhe itna abuse kar sakta hai <end>
+<begin> it seems like such a lonely life <end>	<begin> yeh itna lonely life lagta hai <end>
+<begin> and this was in the old days where her in the closet neighbor had to hide his true identity <end>	<begin> aur ye old days mein tha jab uske closet neighbor ne uski true identity ko hide kiya tha <end>
+<begin> yeah the stress that they must have endured is insane i think all of the actors and actresses did a fantastic job of having the audience and viewers feel what was going on <end>	<begin> haan jo stress se woh gujre wah insane hai mujhe lagta hai ki sare actors aur actresses ne fantastic job kiya hai audience aur viewers ko feel karvaya jo ho raha hai <end>
+<begin> yes the movie was extremely well directed and sally hawkins did a great job in her role <end>	<begin> haan movie extremely well directed hai aur sally hawkins ne apne role me badhiya job kiya hai <end>
+<begin> imagine being in that position and keeping the creature in the bathtub <end>	<begin> imagine karo ki tumus position mein ho aur us creature ko bathtub mein rakh kar <end>
+<begin> the part where she was going to release the creature is pretty crazy <end>	<begin> jo part mein us creature ko release kiya woh pretty crazy hai <end>
+<begin> yeah that really kept me at the edge of my seat <end>	<begin> haan wah mujhe really seat ke edge me rakha <end>
+<begin> it was interesting how the creature had mysterious healing powers <end>	<begin> bahut interesting hai ki kaise us creature ke paas mysterious healing powers the <end>
+<begin> yeah it is so cool because i felt as though that the movie had a balance of drama and fantasy <end>	<begin> yah bahut acha hai muje lagta hai ki moive drama aur fantasy ka balance hai <end>
+<begin> right the romantic part in the bathtub was a bit different however <end>	<begin> acha moive ka romantic hissa bathtub tha vah kafi alag <end>
+<begin> uh yeah i was a bit weirded out by that i kind of kept thinking that she was going to die <end>	<begin> vo mai tora sa chantit hu muje lagta vah marne ja raha hai <end>
+<begin> the ending was a bit crazy however you knew there would be a shootout but after that <end>	<begin> jabki ant kafi crazy thatum jante ho vaha shootout hua <end>
+<begin> yes i was almost in tears by the end did it affect you like that too <end>	<begin> ha mai ant me rone lagikya tum isse affect huye <end>
+<begin> yes it was sad but happy at the same time <end>	<begin> ye sab dukh vah kushi ka samay hai <end>
+<begin> i agree thats the type that gets to me the most lol it tugs on all of your emotions at the same time <end>	<begin> yah muje ye bahut pasand haiyah hamare sare emotion yek samay me le ata hai <end>
+<begin> yes it does this could almost qualify as a chick flick but it had a bit too much action <end>	<begin> isme bahut kuch action tha <end>
+<begin> i agree all of the rough parts kept bringing me back from my trip of sadness haha <end>	<begin> mai sahamat hu sare rough part muje mari dsaness se bahar le aye <end>
+<begin> yes it was definitely an amazing movie overall well worth seeing <end>	<begin> ha overall definitly yah yek majedar moive haidekhane layak moive hai <end>
+<begin> yes ill definitely be watching it again at some point there was a lot to absorb <end>	<begin> haa mei jarrur isko phir se dekhata hui vaha absorb hone ke liye bahut hai <end>
+<begin> yes it is definitely a movie you could watch multiple times <end>	<begin> haa ye movie hai jo aap bahut baar desh sakate hao <end>
+<begin> hi <end>	<begin> kaise hai <end>
+<begin> hi we are talking about zootopia <end>	<begin> kaise hai hum zootopia ke bare me baat karthe hain <end>
+<begin> have you seen it <end>	<begin> aap dekhe hai kya <end>
+<begin> yes i have <end>	<begin> haan main dekha hoon <end>
+<begin> have you <end>	<begin> aap bhi <end>
+<begin> it is a comedy <end>	<begin> yeh comedy hain <end>
+<begin> nope <end>	<begin> nope <end>
+<begin> maybe you should be telling me about itlol <end>	<begin> aap mujse yeh baat bolna chahiye tha lol <end>
+<begin> are the ratings good <end>	<begin> rating achha hain kya <end>
+<begin> i know <end>	<begin> main jantha hoon <end>
+<begin> yes the ratings are decent <end>	<begin> haan ratings decent hain <end>
+<begin> when did it come out <end>	<begin> yeh kab aayi <end>
+<begin> i like jason bateman in comedies so this should be good <end>	<begin> mujhe jason bateman pasand hai in comedies so yeh wali achhi hogi <end>
+<begin> <number> <end>	<begin> <number> <end>
+<begin> i also like ginnefer goodwin <end>	<begin> mujhe bhi ginnefer goodwin pasand hai <end>
+<begin> do you think the movie plotis interesting <end>	<begin> tujhe laga ke movie ka plot interesting hai <end>
+<begin> plot is <end>	<begin> plot is <end>
+<begin> it sounds good <end>	<begin> thik hai sounds good <end>
+<begin> what do critics say about it <end>	<begin> critics kya bol rahe hain iske baare mein <end>
+<begin> i am looking but i dont see anyting <end>	<begin> main dekh raha hoon but kuch dikha nahin <end>
+<begin> oh there it is <end>	<begin> oh wahan hai wo <end>
+<begin> funny smart and thought provoking <end>	<begin> muzedar smart aur thought provoking <end>
+<begin> very funny and a very likable holiday treat <end>	<begin> bahut muzedar aur bahut pasand aane wali holiday treat <end>
+<begin> look past species stereotypes <end>	<begin> pichle species stereotypes dekho <end>
+<begin> so most of the critics agree its a good movie <end>	<begin> to bahut se critics agree karte hai ki yeh good movie hai <end>
+<begin> seems so <end>	<begin> aisa lugta hai <end>
+<begin> fast and funny enough to keep younger people entertained <end>	<begin> younger people ko entertained rakhne ke liye kaphi tez aur muzedar hai <end>
+<begin> who are the main characters <end>	<begin> main characters kaun se hai <end>
+<begin> i know ive watched it but still need to ask those questions <end>	<begin> mujhe pata hai ki maine dekha hai lakin phir bhi wo questions poochne hai <end>
+<begin> well the document that i am looking at just blanked out on me <end>	<begin> kahir jo documents ko main dekh raha hu mujhe blanked out ho gaya hai <end>
+<begin> i wish i could tell you <end>	<begin> kaash main bata sakta <end>
+<begin> oh no well i can <end>	<begin> ohh nahi achha main bata sakta hun <end>
+<begin> haha <end>	<begin> haha <end>
+<begin> ok <end>	<begin> ok <end>
+<begin> its a bunny and a wolf if i remember correctly <end>	<begin> ye ek bunny aur ek wolf hai agar mujhe sahi se yaad hai to <end>
+<begin> anyway i think that it would be fun to see especially young nieces <end>	<begin> koi nahi maine soncha ese dekhne me maza aaega khasker young nieces ko <end>
+<begin> hi there <end>	<begin> hi yar <end>
+<begin> are you there <end>	<begin> aap hein <end>
+<begin> <end>	<begin> <end>
+<begin> hello im here my internet was just a little slow for a bit sorry about that <end>	<begin> hello mein yaha hoon mera internet thoda slow hein yar sorry yar <end>
+<begin> hey what was your fav scene of the movie <end>	<begin> hey movie me tumhara fav scene kon sa tha <end>
+<begin> yes <end>	<begin> yes <end>
+<begin> hello i have just seen the film it is hilarious dont you think jim carrey is very funny <end>	<begin> hello maine just film ko dekha tumhe lagta hai ki ye hilarious hai jim carrey bahut funny hai <end>
+<begin> hello <end>	<begin> hello <end>
+<begin> hi bruce almighty is the movie we will be talking about it is a comedy starring jim carrey and morgan freeman <end>	<begin> hi ham jis movie ke baare mein baat karenge wo hai bruce almighty ye ek comedy hai starring jim carrey aur morgan freeman <end>
+<begin> have you seen this movie before i have seen this back when it first came out <end>	<begin> kya tumne pehle ye movie dekhi hai maine ye tab dekhi thi jab ye pehle aayi thi <end>
+<begin> i have its very funny carrey is hilarious and i love morgan freeman <end>	<begin> han dekhi hai kafi funny hai carrey kafi hilarious hai aur i love morgan freeman <end>
+<begin> yes jim carrey was much more hilarious back in the days morgan freeman will always be the sound of god to me <end>	<begin> han un dino mein jim carrey zyada hilarious tha morgan freeman mere liye hamesha sound of god rahega <end>
+<begin> would you rewatch the movie <end>	<begin> kya tum is movie ko dobara dekhoge <end>
+<begin> honestly i love freemans voice jennifer anniston was also very good but i did feel sorry for her character <end>	<begin> honestly main freeman ki voice ko pasand karta hun jeniffer anniston bhi kafi achi thi par main uske character ke liye sorry feel karta hun <end>
+<begin> yes bruce almighty is one of my go to movies <end>	<begin> yes bruce almighty meri go to movies mein se ek hai <end>
+<begin> the cinemascore for this movie is an a im not surprised at all to hear that all of the actors did a fabulous job <end>	<begin> is movie ka cinemascore a hai main bilkul bhi surprsied nahi hun ye hear kar ke sabhi actors ne fabulous kaam kia <end>
+<begin> yes i feel sorry for her character but her character sounds too much like her friends days <end>	<begin> haan main uske character ke liye sorry feel karta hu par uska character kafi zyada uske friends days se milta julta hai <end>
+<begin> i do not think i would rewatch this movie <end>	<begin> i dont think main woh movie phir se dekhunga <end>
+<begin> yes i agree that her character was very much a friends style role <end>	<begin> yes i agree uska character bohot kuch friends style wala role tha <end>
+<begin> oh why not do you not like comedies <end>	<begin> oh why not tumhe comedies pasand nahi <end>
+<begin> rotten tomatoes has a rotten score for it so i think i am swayed by that <end>	<begin> rotten tomatoes main uska rotten score hi tha so i think i am swayed by that <end>
+<begin> oh but the cinemascore is an a <end>	<begin> oh lekin cinemascore a hai uska <end>
+<begin> comedies seem to be very cliche and there does not seem to be one that i have favored in awhile <end>	<begin> comedies bahut cliche lagti hain aur aisi koi bhi nahi dikhti that i have favored in awhile <end>
+<begin> well i think the actors all did a fabulous job and the three main actors are all very good actors <end>	<begin> well mujhe lagta hai saare actors ne fabulous kaam kiya and the three main actors are all very good actors <end>
+<begin> morgan freeman is a good in all his roles <end>	<begin> morgan freeman apne saare roles mein badhiya hai <end>
+<begin> however i cannot say the same for jim carrey as he has had a downward spiral these years <end>	<begin> however main jim carrey ke baare mein aisa nahi bol sakta kyunki he has had a downward spiral these years <end>
+<begin> totally totally agree morgan freeman is the bomb <end>	<begin> totally agree morgan freeman to bomb hai <end>
+<begin> and jim carrey has bombed in so many but he outdid himself in this movie <end>	<begin> arey jim carrey ne tho kahi bar bombed kiya lekin usse movie mein nahi nazar aaya <end>
+<begin> it seems like i will have to rewatch it in the end <end>	<begin> muje lagtha hein ki muje end ko fir dekhna chahiye <end>
+<begin> i like how he uses his new powers to cause such miraculous events to occur at otherwise mundane events <end>	<begin> muje tho uska new powers ka usage bahut pasand aaya jaisa usne us miraculous events ko occur kiya <end>
+<begin> i dont like how he embarrases his other co worker but at the same time the character evan was such an ass <end>	<begin> muje pasand nahi hein yar kaise voh embarrasses huva apne coworker ke saath aur evan ka character tho bakvas hein <end>
+<begin> lol very true it sure makes the situation crazier that it should be <end>	<begin> lol sach hein isse aur crazier ban jaatha is situation ko <end>
+<begin> i probably would have done the same if i had been in bruces situation lol <end>	<begin> mein bhi aise hi kartha agar mein bruce ka situation hota lol <end>
+<begin> likewise i kind of wish i had his powers so i could do the same lol <end>	<begin> agar muje powers miltha tho mein bhi aise hi kartha lol <end>
+<begin> and of course god morgan freeman steps in to save the day and tells bruce what he should do <end>	<begin> aur us morgan freeman tho god bankar bruce ka day save kiya aur usse uska kaam nikal vaaya <end>
+<begin> seriously did you know it knocked off the matrix reloaded from the box office during its first week <end>	<begin> seriously first week mein hi box office ko knocked off kara aur matrix reloaded <end>
+<begin> noooo i didnt know that i enjoyed the first matrix but the other two were trying to hard to be the hit the first one was saying that i can see why it knocked it out of its place <end>	<begin> nahi muje nahi patha lekin mein first matrix ko enjoy kar raha tha lekin donon aapas mein hit kar rahe thei dono us place ke liye knocked out kar rahe they <end>
+<begin> when it all comes down to it this is one of my favorite movies im not a big movie fan but this is one i can rewatch many times <end>	<begin> jab sab kuch is par hi aa jata hai yah meri favorite movie me se hai mai big movies ka fan nahi hu but ye wali me kai baar dekh sakta hu <end>
+<begin> true that pretty impressive for jim carreys career i hope you didnt watch evan almighty lol <end>	<begin> sach hai jim carrey ke career ke ke liye yah bahut impressive hai i hop tumne evan almighty nahi dekhi hai lol <end>
+<begin> i have a really great action thriller reccomendation for you <end>	<begin> mere pas bahut aaccha action thriller reccomendation hi <end>
+<begin> hi there <end>	<begin> namaste <end>
+<begin> its called inception hear of it <end>	<begin> ye tho inception suna hi kya <end>
+<begin> thriller i thought it was a horror movie <end>	<begin> thriller mi ne socha hi ki ye tho horror movie <end>
+<begin> nope inception is about a group of people called extractos <end>	<begin> nahi inception tho bahut log bolega ki extractos <end>
+<begin> extractors <end>	<begin> extractors <end>
+<begin> ohok thank you for clarifying <end>	<begin> oh ok danyavad clarification de ne ke liye <end>
+<begin> they dive into peoples dreams to gather info from the dream world <end>	<begin> vo log tho logon ka dreams tho collect kar ke dream world bana dega <end>
+<begin> did it just come out <end>	<begin> abhi release hui kya <end>
+<begin> no its from <number> <end>	<begin> nahin its from <number> <end>
+<begin> it has di caprio in it it as well <end>	<begin> usme di caprio bhi hai <end>
+<begin> got it <end>	<begin> accha <end>
+<begin> i not a big dicaprio fan <end>	<begin> main big fan nahin hoon dicaprio ka <end>
+<begin> me neither but normally he is only in rather good movies <end>	<begin> main bhi nahin but normally woh good movies main he hota hai <end>
+<begin> on a scale <number> to <number> how would you rate this movie <end>	<begin> on a scale of <number> to <number> tum kaise rate karoge yeh movie <end>
+<begin> <number> <end>	<begin> <number> <end>
+<begin> is there anything further you want to know to make a decision <end>	<begin> tumhe kuch aur janana hai to make a decision <end>
+<begin> who stars opposite of dicaprio <end>	<begin> di caprio ke opposite kaun actor hai <end>
+<begin> i dont know it does not state it <end>	<begin> mujhe nahi pata isme ye state nahi kia <end>
+<begin> is it rated r or pg <number> <end>	<begin> kya ye r rated hai ya pg <number> <end>
+<begin> but it got <number> from rotten tomatoes <end>	<begin> lekin isey rotten tomatoes par <number> mila <end>
+<begin> i dont know that either sorrt <end>	<begin> mujhe ye bhi nahi pata sorry <end>
+<begin> its got shooting and sex <end>	<begin> isme shooting aur sex hai <end>
+<begin> probably r then <end>	<begin> probably r hoga fir <end>
+<begin> it is a mind boggler <end>	<begin> ye mind boggler hai <end>
+<begin> i might have to check it out i love thrillers <end>	<begin> mai shaya isey dekhunga mujhe thrillers pasand hain <end>
+<begin> anything else i should know to make a decision <end>	<begin> kya mujhe decision lene ke liye kuch aur pata hona chahiye <end>
+<begin> no the movie is really great the less you know the better <end>	<begin> nahi movie acchi hai jitna kam janoge utna accha <end>
+<begin> done <end>	<begin> theek hai <end>
+<begin> i think we both need to have <number> lines of covo <end>	<begin> mujhe lagtha hai hum dono ko <number> line covo chahiya <end>
+<begin> okdone <end>	<begin> oktheek hai <end>
+<begin> so <number> lines total <end>	<begin> kul <number> line <end>
+<begin> i am not able to scroll back up to review though <end>	<begin> mujhe peeche jakar review karne me dhikat ho rahi hai <end>
+<begin> i have <number> <end>	<begin> mere pas <number> hai <end>
+<begin> you have over <number> <end>	<begin> aap ko <number> se zyaada hai <end>
+<begin> yeah idk then <end>	<begin> aur idk bhi <end>
+<begin> the finish conversation is grayed out <end>	<begin> bathcheeth mita de gai <end>
+<begin> this movie looks really interesting i like tom hanks a lot <end>	<begin> es cinema sachmuch kafi majedar thi mai tom hanks ki kafi pasan kiya <end>
+<begin> he is a great and highly skilled actor <end>	<begin> wo kafi bara or uche derje ka kalakar hai <end>
+<begin> for sure i think the score on this movie looks really good on rotten tomatoes <end>	<begin> par sahi me mai samajta hu cinema ki numbar or kafi aacha jata hei rotten tomatoes par <end>
+<begin> <number> is a good score i think i too would rate this movie average <end>	<begin> <number> aacha ank hai i vi ayai samajta hu cinema ka srai ousat hai <end>
+<begin> yeah this typically isnt in my genre but nevertheless seems to be a good movie <end>	<begin> ha eyy sahi me aam tor par aachi cinema ki saili hai <end>
+<begin> so this movie takes place during or after the vietnamese war <end>	<begin> eyy cinema sayad viyatnam ke yaudh ka samay ka hai ya fir ukse bad <end>
+<begin> after i believe <end>	<begin> mai biswas rakhta hu <end>
+<begin> its funny its about a newspaper and nobody even reads those anymore <end>	<begin> eyy majak hai sare kahabaro par par esse jayada koi parha nai hai <end>
+<begin> exactly tom hanks plays as one of those who works for the post too <end>	<begin> tom hanks wo kalakar hai jo the post too par vi kam kar chuka hai <end>
+<begin> yeah and meryl streep as well i believe <end>	<begin> or ha merylstreep vi mai biswas karta hu <end>
+<begin> any movie directed by steven spielberg is bound to have the viewers attention <end>	<begin> koi bhi movie jo steven spielberg ne direct ki hai viewers ka attentions leti hai <end>
+<begin> yes and really the critics seemed to enjoy it <end>	<begin> haa sahi mei critics enjoy karenge <end>
+<begin> in what year did daniel ellsberg accompany the us troops in the movie <end>	<begin> daniel ellsberg ne us troops ke sath kon se year kiya tha <end>
+<begin> i think <number> <end>	<begin> mene soch <number> <end>
+<begin> would you agree <end>	<begin> kya tun agree ho <end>
+<begin> i would too agree <end>	<begin> mei bhi agree hui <end>
+<begin> what corporation was he working for <end>	<begin> ye kon se corporation mei kam karte hai <end>
+<begin> daniel ellsberg ended up working for rand <end>	<begin> rand se daniel ellsberg se apni working end kiya <end>
+<begin> is my memory correct <end>	<begin> kya meri memory correct hai <end>
+<begin> yes that is correct from what i can see <end>	<begin> haa ye sahi hai jaha se mene dekha <end>
+<begin> pretty gutsy move these guys actually pulled <end>	<begin> bahut hi gutsy move hai ye log actually pulled ho gaye <end>
+<begin> with classified government documents <end>	<begin> classified government documents ke saath <end>
+<begin> and he tracked down by the post assistant editor too <end>	<begin> aur use post assistant editor ne bhi track down kar liya <end>
+<begin> yes i actually think this movie makes me want to see more true story type films <end>	<begin> yes mujhe actually ye laga ki ye movie mujhe more true story type films dekhne ke liye make karegi <end>
+<begin> i would not be surprised at all if this was a hidden real story that the government did not want to get out <end>	<begin> mujhe surprised nahi hoga ye jaankar ki ye ek hidden real story thi jo ki government nahi chahti ki bahar aaye <end>
+<begin> thats what it seems like that it was a <number> year old document that they didnt want people to know about <end>	<begin> aisa lagta hai ki ye ek <number> year old document hai jise wo nahi chahte ki people iske baare me jaane <end>
+<begin> do you enjoy this genre of movie <end>	<begin> kya tum is genre ki movie enjoy karte ho <end>
+<begin> i do i enjoy movies that involve exploiting of governments and white house involvements <end>	<begin> i do mujhe wo movies maja deti hai jisme governments ka explotation involved ho aur white house involvements <end>
+<begin> same here it makes it more interesting knowing it actually happened to <end>	<begin> same here ye actually me hua tha jisne ise more interesting bana diya <end>
+<begin> and in the movie the court rules the newspaper <number> <number> that must of been a shocker <end>	<begin> aur movie me court ke rules the newspaper <number> <number> ye shocker hona chahiye the <end>
+<begin> yeah i am sure the government was shocked <end>	<begin> haan mujhe pata he government shock hua <end>
+<begin> even if i was right i dont think i could conspire against the us government <end>	<begin> jabki me sahi tha mujhe nahi lagta mai conspire karunga us government ke khilaf <end>
+<begin> no absolutely not i dont think its right to undermine the government <end>	<begin> nahi bilkul nahi mujhe nahi lagta government ko undermine karna sahi he <end>
+<begin> who was president at the time i wonder <end>	<begin> us time pe kon president tha mujhe nai pata <end>
+<begin> the president during that time was nixon <end>	<begin> us time ke president nixon the <end>
+<begin> ok cool <end>	<begin> ok cool <end>
+<begin> nixon actually demanded that the post be barred from the white house <end>	<begin> nixon ne demand ki thi post barred krne ke liye white house se <end>
+<begin> hi the movie i want to talk to you about today is steven spielbergs jaws it has a <number> review on rotten tomatoes and has a <number> <number> imdb rating <end>	<begin> namaste aaj main jis philm ke baare mein aapase baat karana chaahata hoon vah hai steven spielberg kee jaws <end>
+<begin> yes that was worth a one time watch back in the <number> s <end>	<begin> haan yah <number> ke dashak mein ek baar dekhane laayak tha <end>
+<begin> so do you agree with the ratings of the movie many people find it to be a scary thriller but others describe it as being too gruesome what do you think do you like this kind of movie <end>	<begin> to kya aap philm kee reting se sahamat hain kaee logon ko yah ek daraavana thrilar lagata hai lekin any log ise bheeshan bataate hain tum kya sochate ho kya aapako is tarah kee philm pasand hai <end>
+<begin> i found it to be to gruesome and didnt agree with the rating but then i dont like violent movies <end>	<begin> i found it to be to gruesome aur reting se sahamat nahin tha lekin phir mujhe hinsak philmen pasand nahin hain <end>
+<begin> i hear ya but maybe you should give it another try its a classic movie full of action and suspense steven spielberg never disappoints do you typically like steven spielberg movies <end>	<begin> main aapakee baat sunata hoonlekin shaayad aapako ise ek aur koshish denee chaahie yah ekshan aur saspens se bharapoor klaasik philm hai steven spielberg kabhee niraash nahin karatekya aap aamataur par steevan speelabarg philmen pasand karate hain <end>
+<begin> im not sure as to whether id like to give it another try or not but then again i liked et <end>	<begin> mujhe yakeen nahin hai ki kya main ise ek aur koshish dena chaahoonga ya nahin lekin phir mujhe eetee pasand aaya <end>
+<begin> well like one person put it its funny in a woody allen sort of way since its a classic it might not be exactly as you remember might be worth the watch even if just for the laughs <end>	<begin> khair jaise ek vyakti ne ise rakha yah ek tarah se vudee elan kee tarah mazedaar haichoonki yah ek klaasik hai yah theek vaisa nahin ho sakata jaisa aap yaad karate hain bhale hee sirph hansee ke lie ghadee dekhane laayak ho <end>
+<begin> perhaps the humor is subtle i recall not really seeing to much humor in it though <end>	<begin> shaayad haasy sookshm hai mujhe yaad hai ki vaastav mein isamen jyaada haasy dekhane ko nahin mila <end>
+<begin> well i suppose the film works for both types of people some love it because of its action and because its a scary thriller while others find it to be more humorous and funny <end>	<begin> khair mujhe lagata hai ki philm donon tarah ke logon ke lie kaam karatee hai kuchh ko isake ekshan se pyaar hai aur kyonki yah ek daraavana thrilar hai jabaki any ise adhik vinodee aur majaakiya samajhate hain <end>
+<begin> thats true and it probably also has a lot to do with the types of humor people like or dont care for <end>	<begin> yah sach hai aur shaayad yah bhee haasy ke prakaar ke logon ke saath bahut kuchh karana hai ya paravaah nahin hai <end>
+<begin> yeah thats true but of course most watch it for the thrill for example there is a scene in the movie where a woman named chrissie watkins goes skinny dipping in the ocean while shes in the water shes suddenly pulled under its unexpected and thrilling one of the reasons why i enjoy this movie <end>	<begin> haan voh sach hein par jyada log us thrill ke liye dekhenge udharan voh movie me yek scene yek aurat uska naam chrissie watkins skinny dipping karthi thi ocean mein jab voh pani mein hein achanak use upper pull kar the hein voh toh unexpected aur thrill bhi hein muje toh us movie dekhkar badi kushi huvi <end>
+<begin> i honestly dont know what else to say this has been going on way too long and is honestly silly im going to return the hit hopefully you can abort the conversation and still get paid this is terrible <end>	<begin> muje kuch patha nahi ab vaakahi mein mein kya kahun voh toh bahut long ja raha hein aur voh silly bhi hein mein toh return karne vala hoon us hit ko isse aapka conversation abort hoga magar aapko paid bhi hoga voh terrible hein yar <end>
+<begin> ok lets get this done nice chatting with you either way <end>	<begin> acha ab mein chala aapse chat karne se muje kushi hein <end>
+<begin> what is the movie about <end>	<begin> movie kis baare me hai <end>
+<begin> the movie is about a young child named kevin who was abandoned by his family when they went for their christmas vacation <end>	<begin> movie ek chhote bacche kevin k baare me hai jise uski family christmas vacation manane jaate hue abandon kar deti hai <end>
+<begin> did they abandon him on purpose <end>	<begin> kya wo jaan bhuj k abandon karte hai <end>
+<begin> no they had lost track of him since they had multiple familys over for christmas <end>	<begin> nahi wo uska track lose kardete hai kyuki bahut saari family christmas k liye aayi thi <end>
+<begin> did they realize they lost track of him and come back for him <end>	<begin> kya wo realize karte hai k wo chhut gaya aur uske liye wapas aate hai <end>
+<begin> kevins mother realizes that he is lost once they arrive at their destination and she trys to get on a flight back home but there are none available so she drives back with strangers <end>	<begin> kevin ki mom ko tab realise hota hai ko wo chhut gaya jab wo apni destination pe aajate hai phir wo return flight lene ki koshish karti hai but koi available nahi rahta to wo wapas strangers k sath drive karte huye ati hai <end>
+<begin> was he left at home or while they were traveling <end>	<begin> kya wo ghar pe hi chhuta ya travel karte huye chhuta <end>
+<begin> he was left at home <end>	<begin> wo ghar pe chhuta hai <end>
+<begin> how old is kevin <end>	<begin> kevin kitne saal ka hai <end>
+<begin> kevin is a young child no exact age is given estimates are he is around <number> <end>	<begin> kevin chhota baccha hai uski exact age to nahi batate but <number> saal ka estimate hai <end>
+<begin> oh ok is he able to fend for himself at all <end>	<begin> oh thik hai jya wo apne liye thoda bhi fend karne mein able tha <end>
+<begin> kevin is left home because a power outage caused the family to oversleep and be late for their flight so in the confusion they misplaced kevin as he was sent to the attic for misbehaving the night before <end>	<begin> kevin ghar par reh jata hai kyunki power outage ki wajeh se family oversleep kar leti hai aur flight ke liye late ho jati hai to confusion me wo kevin ko misplace kar dete hain kyunki usey pichli raat ko attic mein bheja tha misbehave karne ke liye <end>
+<begin> so he is not able to fend for himself is he afraid <end>	<begin> to kya wo apne liye fend nahi kar patha kya wo afraid hai <end>
+<begin> he enjoys being alone but he is met with two burglers who he has to try and strop <end>	<begin> wo ghar par akela rehna pasand karta hai par usey do burglars milte hai jisey usko rokne ki koshish karni hai <end>
+<begin> he is not afriad but more excited <end>	<begin> wo afraid nahi excited jyada hai <end>
+<begin> how does he stop the burglars <end>	<begin> wo burglars ko kaise rokta hai <end>
+<begin> is it a drama or more of a comedy <end>	<begin> kya ye drama hai ya comedy <end>
+<begin> the movie is a good mix of both but i would say it is more of a drama that has a good laugh once in a while <end>	<begin> movie dono ka acha mix hai lekin main kahunga ki ye more drama hai jisme beech mein thodi good laughs hain <end>
+<begin> what is the name of the movie <end>	<begin> movie ka naam kya hai <end>
+<begin> the movie is named home alone <end>	<begin> movie ka naam home alone hai <end>
+<begin> ok does kevin have any siblings <end>	<begin> ok kevin ke koi siblings hain kya <end>
+<begin> he has a brother named buzz who kevin is not a fan of since he was sent to the third floor after an altercation with buzz the night before they left for paris <end>	<begin> uska ek buzz naam ka bhai hai jisse kevin ki banti nahi hai kyunki buzz ke saath ek altercation ke baad usko third floor par bhej diya gaya tha the night before they left for paris <end>
+<begin> does buzz feel bad that kevin was left behind <end>	<begin> kya buzz ko bura laga ki kevin was left behind <end>
+<begin> no he doesnt care <end>	<begin> nahi he doesnt care <end>
+<begin> does kevins mom get to him before the burglars do <end>	<begin> kya kevin ki mom ne burglars se pehle use pakad liya <end>
+<begin> no kevin has to fend off the burgers himself he places booby traps all around the house which turn out to be very effective <end>	<begin> nahi kevin ko khud ko burgers se akele hi defend karna pada usne ghar mein jagah jagah booby traps laga diye the which turn out to be very effective <end>
+<begin> do the burglars realize they are being fooled by a kid that is home alaonee <end>	<begin> kya burglars ko ralize hua ki they are being fooled by a kid that is home alaonee <end>
+<begin> do they give up or keep trying to rob the house <end>	<begin> unhone give up kar diya ya ghar ko lootne ka try karte rahe <end>
+<begin> the robbers came on christmas eve and were detained by police after going through kelvins house and getting hit by all his traps they realize he is alone but there already in the house and are commited <end>	<begin> robbers christmas eve ko aaye and were detained by police after going through kelvins house aur uske traps se hit hone ke baad unko realize hau ki wo akela hai but there already in the house and are commited <end>
+<begin> do they ever see kevin when they are in his house <end>	<begin> kya unone kevin ko kabhi dekhi when they are in his house <end>
+<begin> yes <end>	<begin> yes <end>
+<begin> do the police ever figure out that kevin is home alone <end>	<begin> kya police kabhi figure out kar payi ki kevin home alone hai <end>
+<begin> it is never specified <end>	<begin> ye kabhi specified nahi hai <end>
+<begin> ok thank you <end>	<begin> ok thank you <end>
+<begin> hi <end>	<begin> hi <end>
+<begin> what is the movie about <end>	<begin> movie kis baare me hai <end>
+<begin> just a moment i have to read the document <end>	<begin> just a moment mujhe document read karna padega <end>
+<begin> okay d <end>	<begin> okday <end>
+<begin> the movie is a musical has a <number> rotten tomatoes rating and stars idina menzel she was made famous for the musical wicked <end>	<begin> movie musical hai rotten tomatoes ki <number> ki rating hai aur idina menzel hai usme wo musical wicked ke liye famous hai <end>
+<begin> do you like musicals <end>	<begin> tumhe musicals pasand hai <end>
+<begin> i think it depends on the topic <end>	<begin> i think topic pe depend karta hai <end>
+<begin> what is the topic of this one <end>	<begin> is wale ka topic kya hai <end>
+<begin> its a fairy tale based on hans christian andersens the snow queen the main characters have to find a way to release the world from the icy grip of winter <end>	<begin> ye fairy tale hai hans christian andersen ki the snow queen par based hai main character duniya ko winter ke kabze se nikalne ke liye rasta khojna hota hai <end>
+<begin> its animated <end>	<begin> yah animated hai <end>
+<begin> that sounds a little like frozen <end>	<begin> ye thoda frozen jaisa lag raha hai <end>
+<begin> is it <end>	<begin> hai kya <end>
+<begin> it is youve heard of it then it sounds to me like its worth seeing <end>	<begin> yehi hai tumne iske bare mai suna hoga then mujhe lagta hai ye dekhne layak hai <end>
+<begin> i have indeed <end>	<begin> main indeed <end>
+<begin> you havent seen it <end>	<begin> tumne ye dekhi hai <end>
+<begin> i have i loved it <end>	<begin> i have mujhe achi lagi ye <end>
+<begin> same <end>	<begin> same <end>
+<begin> what was your favorite part <end>	<begin> tumhara favorite part kaunsa tha <end>
+<begin> hmmm im supposed to be convincing you to see it i cant talk about anything not on the document <end>	<begin> hmmm mujhe tumko convince karna hai ye dekhne ke liye jo document main nehi hai uske bare me main kuch nehi keh sakta hun <end>
+<begin> let me tell you about it its bringing up key scenes <end>	<begin> iske bare me mujhe bolne do ye key scenes la rehi hai <end>
+<begin> oh okay i am all ears <end>	<begin> ok main sun raha hun <end>
+<begin> <end>	<begin> smile karo <end>
+<begin> in the beginning we find that princess elsa has magical powers she accidentally hurts her sister with them though <end>	<begin> pehle hamein pata chalta hai ke princess elsa ke paas magical powers hain par apni sister ko accident se hurt kar deti hai woh <end>
+<begin> oh no that is awful <end>	<begin> arey no yeh to bahut bura hua <end>
+<begin> the king and queen take the younger sister to be healed and the being that heals her also changes her memory so that she doesnt remember her older sister has magical abilities <end>	<begin> raja aur rani chhoti behen ko heal karane ley jaate hain aur jo use heal karta hai wo uski memory bhi change kar deta hai taki wo apni sister ki magical abilities ke bare mein bhool jaye <end>
+<begin> this is a good beginning <end>	<begin> beginning to acchi hai <end>
+<begin> elsa eventually becomes queen but shes terrified that people will find out about her powers and be afraid of her they have a castle party and the younger sister anna falls in love with a visiting dignitary who proposes to her elsa says no and loses control of her powers in front of everyone <end>	<begin> elsa aakhir queen ban hi jati hai par wo darti hai ke agar logon ko uski powers ke baare mein pata lag gaya to wo usse darenge wo castle mein ek party dete hain aur chhoti sister anna ek guest ke saath pyar karne lagti hai joki usko propose karta hai elsa use mana karti hai aur sab ke saamne uske powers lose ho jati hain <end>
+<begin> oh no d <end>	<begin> are nahi di <end>
+<begin> the duke the guy anna fell for brands her a monster elsa runs away but the kingdom is left in an eternal winter due to her magic <end>	<begin> duke jisse anna love karti hai use monster kehta hai elsa door chali jati hai par kingdom mein hamesha ke liye thand ho jati hai uske magic ki wajah se <end>
+<begin> i love winter but this is not good <end>	<begin> winter to i love par ye acchha nahi hai <end>
+<begin> poor elsa <end>	<begin> bechari poor elsa <end>
+<begin> anna goes to find elsa and meets some new friends along the way when they find and confront elsa she accidentally injures anna again <end>	<begin> anna elsa ko khojane jaati hai aur raaste mein kuchh nae friends se milati hai jab ve elsako confront karate hain to vah galatee se confront ko phir se injure kar detee hai <end>
+<begin> this definitely is not good <end>	<begin> yah definitely achchha nahin hai <end>
+<begin> one of her new friends takes her back to the same being who healed her before he says that an act of true love is the only thing that can save her now i wont spoil the ending <end>	<begin> usaka ek naya friend use vaapas usee ke paas le jaata hai jisane use pahale theek kiya tha vah kahata hai ki true love ka ek act heen hai jo use bacha sakata hai main ending ko kharaab nahin karoonga <end>
+<begin> hello <end>	<begin> hello <end>
+<begin> how are you today <end>	<begin> kaise hein aajka din <end>
+<begin> hey <end>	<begin> hey <end>
+<begin> hey how are you doing <end>	<begin> hey kya kar rahe ho <end>
+<begin> hey how are you doing <end>	<begin> hey kya kar rahe ho <end>
+<begin> hey how are you doing <end>	<begin> hey kya kar rahe ho <end>
+<begin> hey how are you doing <end>	<begin> hey kya kar rahe ho <end>
+<begin> hey how are you doing <end>	<begin> hey kya kar rahe ho <end>
+<begin> hey how are you doing <end>	<begin> hey kya kar rahe ho <end>
+<begin> i am good thank you <end>	<begin> mein thik hoon thankyou <end>
+<begin> hey <end>	<begin> hey <end>
+<begin> there is this great movie i want to tell you about called toy story <end>	<begin> mei tumko toy story ke bare mei batati hui vo bahut great movie hai <end>
+<begin> it was made in <number> and was one of the first full length computer animated films <end>	<begin> ye <number> mei bani hai and full length computer animated film hai <end>
+<begin> the voice actors in the movies are very famous stars such as tom hanks tim allen and don rickles <end>	<begin> is movie mei voice actor bhi tom hanks tim allen and don rickles ki tarah famous actor hai <end>
+<begin> so have you seen zootopia <end>	<begin> toh kya zootopia dekha kya <end>
+<begin> yes i have the movie was hilarious who was your favorite character <end>	<begin> haan yar voh toh badi hilarious movie hein aapka favorite character kon hein <end>
+<begin> im not good with character names but the fox played by jason bateman <end>	<begin> muje character names kuch yaad nahi hein lakin fox ka role toh jason bateman ne kiya tha <end>
+<begin> nick wilde <end>	<begin> nick wilde <end>
+<begin> who was yours <end>	<begin> aapka konsa <end>
+<begin> oh okay my favorite character was judy hopps my favorite scene of the movie was when she got initially put as a parking duty cop <end>	<begin> acha mera favorite character toh judy hoops hein mera favorite scene is movie mein toh jab voh uska duty cop apni parking se shuru ki <end>
+<begin> i like the movie because it was something that both me and my children enjoyed <end>	<begin> muje is movie pasand hein kyon ki mein aur mera bachon bahut enjoy kiye hein <end>
+<begin> i actually watched it at a friends house because her <number> year old had it on repeat <end>	<begin> mein toh apni doston ke saath dekha kyon ki uska <number> saal beta ko fir se dekhne ka man kiya <end>
+<begin> oh how funny do you think that the imdb rating is appropriate <end>	<begin> acha kitna funny hein kya aapko laga ki imdb ka rating appropriate hota hein <end>
+<begin> i do <number> <number> seems right the rotten tomatoes review seems high but its impressive <end>	<begin> haan yar <number> <number> toh right hi hota rotten tomatoes ka review bhi high hota muje pasand hein <end>
+<begin> i agree rotten tomatoes usually has horrible ratings so it is a bit surprising i like the main theme that people cant be judged based on their color well in this case species <end>	<begin> yeh sahi baat hai ki rotten tomatoes ki ratings kharab hoti hai usually isiliye yeh todha surprising hai mujhe main theme acchi kagi jaha log judge nahi kiye ja rahe apne rang k liye kam se kam is case species me <end>
+<begin> what holiday was this released around <end>	<begin> kis chutti k aap pass yeh release hui tha <end>
+<begin> do you think judy recording nick was an ethical decision <end>	<begin> kya tumhe lagta ki judy ne nick ko jo record kia wo ethical tha <end>
+<begin> i dont recall the holiday i do think that it was ethical because he was a wanted suspect so she was just doing her job <end>	<begin> mujhe holiday yaad nahi par mujhe yeh zarur lagta ki yeh ethical tha kyuki wo ek wanted suspect tha aur wo sirf apna kaam kar rahi thi <end>
+<begin> i think the ending made up for her recording because she realized that nicks past being bullied had a huge effect on him <end>	<begin> mujhe lagta hai jo ending thi usne sab sahi kar dia kyuki usko realize hua ki nick ki past me jo bulling hui wo uspar kaafi effect ki hai <end>
+<begin> i also thought it was super unfair of bogo to request her resignation so quickly she was still new to the force <end>	<begin> mujhe yeh bhi laga ki yeh bohot unfair tha jo bogo ne usse resignation maanga kyu wo abhi nayi thi force me <end>
+<begin> i agree with that it was unfair however she got tricked by nick on her first day i honestly dont think she was qualified for the position <end>	<begin> mujhe bhi yeh baat sahi lagi wo nayi thi halaki wo pehle din hi nick se trick ho gayi wo is position k liye qualified hi nahi thi <end>
+<begin> she was a bit naive but she also shouldnt have been out alone as a rookie <end>	<begin> wo todhi pagal thi magar use akele aise rookie par nahi jana tha <end>
+<begin> i loved bellwethers character i know shes a bad guy but jenny slate does such a good job <end>	<begin> mujhe bellwethers ka character sabse mast laga mujhe pata hai wo buri thi usme magar jenny slate ne bohot accha kaam kia <end>
+<begin> i have to agree with you on that i dont see her as much of a bad guy since she offered nick and judy access to the security cameras <end>	<begin> mai tumse sehmat hu ispar mujhe wo itni buri bhi nahi lagi kyuki usne nick aur judy ko security camera ka access dia <end>
+<begin> in the end when judy asked nick to join the zootopia police department do you think that was a good call on her part <end>	<begin> end mein jab judy ne nick se zootopia police department ko join karne kaha tha toh kya aap isse ache call kahe jaayenge <end>
+<begin> probably not just because he ended up liking her doesnt mean he had completely turned himself around <end>	<begin> bilkul nahi yar kyon ki end mein usne pyar toh kiya lekin uska pura nahi usse diya <end>
+<begin> yeah the movie didnt show nick developing enough for him to be trusted with that kind of authority plus i am guessing that his criminal background wouldnt go well <end>	<begin> haan is movie mein toh nick neh uska trust aur authority nahi develop ki aur muje guess hein ki voh criminal background mein jarur nahi aayega <end>
+<begin> it was sweet when nick stuck up for judy when bogo tried to demand her to quit <end>	<begin> voh toh pyara tha jab nick nei judy ke liye stuckup kiya jab bogo nei use quit karne ka demand kiya <end>
+<begin> i agree he definitely showed some development there possibly just gratitude <end>	<begin> mein maantha hoon voh toh kuch development showed kiya kuch gratitude bhi <end>
+<begin> did you think that the use of drugs in the movie was a bit too much the creation of drugs i should say <end>	<begin> kya aap ko kuch aise nahi laga ki movies mein drug ka usage kuch jaasti tha <end>
+<begin> i think it was innocent enough probably too complicated of a plot line to really do any harm to kids <end>	<begin> muje lagtha hein ki voh innocent tha aur kuch plot line mein add kiye honge toh voh aur complicated ban saktha aur kids ke liye toh harm ho saktha tha <end>
+<begin> they could get the jist of it that bellwether made the wolves do bad things but beyond that they probably didnt relate it to drugs as we think of them <end>	<begin> jo kiya so paayega jab wolves ne bad things kiya lekin voh drug se relate nahi kiya jo hum soch rahe they <end>
+<begin> i know what you mean <end>	<begin> muje patha hein aap kya aap bole <end>
+<begin> my young cousin asked me what they were and why he was making them what they do to people etc so it might not influence most children but definitely some <end>	<begin> mera choti cousin pucha ki voh kya hein aur kyon us loog kon hein aur bla bla isliye mein children ko nahi influence karne devunga <end>
+<begin> hello what movie are we talking about <end>	<begin> hello ham kis movie ke bare mei baat kar rahe hai <end>
+<begin> the wolf of wallstreet <end>	<begin> the wolf of wallstreet <end>
+<begin> im not really familiar with it <end>	<begin> main is se familiar nahi hun <end>
+<begin> who are the actors in the movie <end>	<begin> kaun kaunse actors hain is movie mein <end>
+<begin> i watched it it was very interesting <end>	<begin> maine dekha hai woh bahut interesting hain <end>
+<begin> leonardo dicaprio <end>	<begin> leonardo dicaprio <end>
+<begin> he is also the producer <end>	<begin> woh uska producer bhi hai <end>
+<begin> did he win any awards for it <end>	<begin> usne koi awards jeete kya uske liye <end>
+<begin> it does not say on the document i personally do not know <end>	<begin> is document mein toh nahin kaha gaya mujhe personally nahin pata <end>
+<begin> is there illegal trading that goes on <end>	<begin> kya koi illegal trading chal rahi hai <end>
+<begin> yes <end>	<begin> haan <end>
+<begin> he must be a young stockbroker in the movie <end>	<begin> woh ek young stockbroker ho sakta hai is movie main <end>
+<begin> yes <end>	<begin> haan <end>
+<begin> this was based on the true story and character <end>	<begin> yeh true story ke based se hein aur character bhi <end>
+<begin> what was the characters name <end>	<begin> tho character ka naam kya hein <end>
+<begin> wait the letters are very small on the document <end>	<begin> wait letters tho waakahi mein small hein is document mein <end>
+<begin> jordan belffort <end>	<begin> jordan belffort <end>
+<begin> i think i remember seeing the trailer and i think michael douglas is also in the movie <end>	<begin> muje lagtha hein ki mein is movie ka trailer dekha hoon muje lagtha ki michael douglas bhi is movie mein hein <end>
+<begin> wasnt it directed by oliver stone <end>	<begin> tho oliver stone ne directed kiya kya <end>
+<begin> no he was not <end>	<begin> nahi voh nahi <end>
+<begin> no sarcosse <end>	<begin> nahi sarcosse ne <end>
+<begin> is it suspenseful i may consider watching it <end>	<begin> kya yeh suspenseful hein mein jarur dekhne ke liye consider karunga <end>
+<begin> would you recommend it <end>	<begin> aap kya isako recommend karenge <end>
+<begin> i would but make sure kids are not around <end>	<begin> main yeh karoongi par kids yahaan nehi hoone chaayae <end>
+<begin> if you are religious you would not want to watch it <end>	<begin> yadi aap religious ho tho shayad aap ise nehi dekha chahoge <end>
+<begin> ok thanks for the information <end>	<begin> information ke liye dhanyavaad <end>
+<begin> no im not religious so i guess im ok <end>	<begin> nahin main religious nahin hoon tho yeh theek hai <end>
+<begin> does it say how long the movie is i have no information about it on my screen at all <end>	<begin> kahi lika hai ki movie kitnee lambee hai mere screen per kuch nahin lika hai <end>
+<begin> it does not say <end>	<begin> nothing lika hai <end>
+<begin> it says in the turk hit that we will both have the paragraph available to read and i dont sowhatever i guess <end>	<begin> is turk hit mein kahate hai ki hum donon ko pardhane ke liye paragraph mila hai magar muje nahi milawhatever <end>
+<begin> is there anything else you can tell me about it <end>	<begin> isake baare mein can you tell me anything <end>
+<begin> so even though i watched the movie i could only influence you based on the document <end>	<begin> bhale maine movie dekhee hai main sirif document ke saath influence kar sakta hoon <end>
+<begin> can you type some of the information in the document <end>	<begin> kya tum document mai di hui kuch information type kar sakte ho <end>
+<begin> jordan was a stock broker for rotschild <end>	<begin> jordan rothschild ke liye stock broker tha <end>
+<begin> he deceived customers <end>	<begin> usne customers ko dhokha diya <end>
+<begin> he pushed penny stocks that he knew were not good <end>	<begin> usne penny stocks ko badhava diya joki usko pta tha ki aache nahi hein <end>
+<begin> ok thanks sounds interesting <end>	<begin> theek hai thanks sunne mai interesting lagta hai <end>
+<begin> nice chatting <end>	<begin> aachi chatting hai <end>
+<begin> thanks <end>	<begin> thanks <end>
+<begin> hi <end>	<begin> namaste <end>
+<begin> what is the movie about <end>	<begin> philm ke baare mein kya hai <end>
+<begin> just a moment i have to read the document <end>	<begin> bas ek pal mujhe dastaavez padhana hai <end>
+<begin> okay d <end>	<begin> theek hai d <end>
+<begin> the movie is a musical has a <number> rotten tomatoes rating and stars idina menzel she was made famous for the musical wicked <end>	<begin> philm ek sangeetamay hai <number> sdde ttmaattr kii retting hai aur staars idina menzel vah sangeet dusht ke lie prasiddh tha <end>
+<begin> do you like musicals <end>	<begin> kya aapako sangeet pasand hai <end>
+<begin> i think it depends on the topic <end>	<begin> mujhe lagata hai ki yah vishay par nirbhar karata hai <end>
+<begin> what is the topic of this one <end>	<begin> is ek ka vishay kya hai <end>
+<begin> its a fairy tale based on hans christian andersens the snow queen the main characters have to find a way to release the world from the icy grip of winter <end>	<begin> yah ek paree katha hai hans krishchiyan endarasan kee da sno kveen par aadhaarit hai mukhy paatron ko ek raasta khojana hoga sardiyon kee barpheelee pakad se duniya ko mukt karane ke lie <end>
+<begin> its animated <end>	<begin> yah enimeted hai <end>
+<begin> that sounds a little like frozen <end>	<begin> voh toh frozen ke tarah hein <end>
+<begin> is it <end>	<begin> acha <end>
+<begin> it is youve heard of it then it sounds to me like its worth seeing <end>	<begin> haan yar aap toh jarur sun rahe honge muje lagtha hein ki yeh worth seeing hein <end>
+<begin> i have indeed <end>	<begin> muje bhi <end>
+<begin> you havent seen it <end>	<begin> aap nahi dekhe kya <end>
+<begin> i have i loved it <end>	<begin> mein dekha muje pasand hein <end>
+<begin> same <end>	<begin> muje bhi <end>
+<begin> what was your favorite part <end>	<begin> aapka favorite part konsa hein <end>
+<begin> hmmm im supposed to be convincing you to see it i cant talk about anything not on the document <end>	<begin> hmm mein toh aapko convince kar ka koshis kar raha hoon ki aap us movie ko dekhne ki mein document ke alava kuch baath nahi kar saktha hoon <end>
+<begin> let me tell you about it its bringing up key scenes <end>	<begin> acha mein sab boltha hoon us keyscene ke baare mein <end>
+<begin> oh okay i am all ears <end>	<begin> acha thik hein mein aapka he hoon <end>
+<begin> <end>	<begin> ha ha <end>
+<begin> in the beginning we find that princess elsa has magical powers she accidentally hurts her sister with them though <end>	<begin> shuru mein toh muje lag raha tha ki princess elsa mein magical powers hein lekin voh accidentally apni bahen ko hurt kar rahi thi <end>
+<begin> oh no that is awful <end>	<begin> are vah yeh toh bahut badiya hein <end>
+<begin> the king and queen take the younger sister to be healed and the being that heals her also changes her memory so that she doesnt remember her older sister has magical abilities <end>	<begin> king aur queen apni choti beti ko heal karne le jaathe hein magar uska heal aisa hota ki uski memory thoda change hota hein ki uska badi bahen ko magic karne ka ability use nahi patha chaltha hein <end>
+<begin> this is a good beginning <end>	<begin> voh toh ache shuruvad hein <end>
+<begin> elsa eventually becomes queen but shes terrified that people will find out about her powers and be afraid of her they have a castle party and the younger sister anna falls in love with a visiting dignitary who proposes to her elsa says no and loses control of her powers in front of everyone <end>	<begin> elsa queen bani hoti hein lekin voh apni powers ke baare mein logon ko patha nahi chalna chahiye ke dar bahut tha jab castle party mein uska choti bahen anna ko us visiting dignitary ke saath love hotha hein jo use propose kartha hein elsa neh toh no bole aur apni power ko saare logon ke saamne dekha dethi hein <end>
+<begin> oh no d <end>	<begin> areeh d <end>
+<begin> the duke the guy anna fell for brands her a monster elsa runs away but the kingdom is left in an eternal winter due to her magic <end>	<begin> voh duke jo anna gir gayi thi voh monster hein elsa toh bhag gayi lekin uska kingdom ko eternal winter ho gaya uska magic ke kaaran <end>
+<begin> i love winter but this is not good <end>	<begin> muje winter pasand hein lekin yeh ache ki liye nahi hein <end>
+<begin> poor elsa <end>	<begin> bechari elsa <end>
+<begin> anna goes to find elsa and meets some new friends along the way when they find and confront elsa she accidentally injures anna again <end>	<begin> anna elsa ko khojne gai aur naye friends raste mein mil gayejab elsa se mili by accident anna ko injure kar diya <end>
+<begin> this definitely is not good <end>	<begin> ye ekdum accha nahin hai <end>
+<begin> one of her new friends takes her back to the same being who healed her before he says that an act of true love is the only thing that can save her now i wont spoil the ending <end>	<begin> uske ek naye friend ne use vaapas usi being ke paas le gaya jisne use pehle heal kiya thausne bataya ki true love hi use bacha sakta haimein ending spoil nahi karna chahti <end>
+<begin> this film has a great rotten tomatoes score <end>	<begin> is film ka rotten tomatoes ka score badhiya hai <end>
+<begin> what did you think of the cast <end>	<begin> cast ke bare me aap kya sochte ho <end>
+<begin> those scores are often inflated by the studios themselves i dont always trust rt <end>	<begin> ye score jyadatar studio wale khud inflate kara dete hai mai hamesha trust nahi karta inhe <end>
+<begin> i thought the cast was good <end>	<begin> meri soch se cast badhiya thi <end>
+<begin> do you watch alot of musicals <end>	<begin> kya tum bahut musicals dekhte ho <end>
+<begin> do you typically like musicals <end>	<begin> kya typically aap musicals like karte ho <end>
+<begin> i watch some but im very picky about them <end>	<begin> mai kuch dekhta hu par mai unke baare me bahut picky hu <end>
+<begin> not really ill watch them on occasion <end>	<begin> not really mai unhe kuch ocassions me hi dekhta hu <end>
+<begin> i dont like when they sing the dialogue <end>	<begin> mujhe pasand pasand nahi aata jab wo koi diaogue sing karte hai <end>
+<begin> same <end>	<begin> same <end>
+<begin> what about dramas <end>	<begin> dramas ka kya hua <end>
+<begin> im a movie buff in general <end>	<begin> in general main ek movie buff hoon <end>
+<begin> what was your favorite scene i liked the one while they were doing a gig at a restaurant <end>	<begin> tumhara favorite scene kya hai mujhe vo jab ve restaurant mein gig kar rahe the <end>
+<begin> i heard good things about la la land but havent see it irl yet <end>	<begin> maine la la land ke bare mein acha suna tha lekin irl dekha nahin haiab tak <end>
+<begin> how were the songs <end>	<begin> songs kaise the <end>
+<begin> sappy and showtune like <end>	<begin> snappy our showtune jaisa <end>
+<begin> he was playing in a s pop cover band <end>	<begin> vo ek <number> s ka pop cover band play kar raha tha <end>
+<begin> not bad though <end>	<begin> utna bad nahin hai <end>
+<begin> sounds like music lyrics <end>	<begin> lagta hai musics lyrics <end>
+<begin> do you agree with the rating <end>	<begin> rating par agree karte ho <end>
+<begin> seemed inflated to me but i still need to see it <end>	<begin> mujhe inflated dikh raha but still dekhna padega <end>
+<begin> i thought emma stone did a fantastic job though <end>	<begin> mere vichar se emma stone ne fantasic job kiya hai <end>
+<begin> jazz pianist doesnt get me excited <end>	<begin> jazz pianist mujh excite nahi karte hai <end>
+<begin> i like john legends music and voice though <end>	<begin> mai waise john legend ka music aur voice pasand karta hu <end>
+<begin> yeah one of the critics said mias character was a little dull and sebastian is a jazz snob <end>	<begin> yes unme se ek critic ne kaha ki mia ka character thoda dull tha aur sebastian to ek jazz snob hai <end>
+<begin> me too <end>	<begin> me too <end>
+<begin> imdb ratings usually arent that high <end>	<begin> imdb rating usually itni high nahi hoti <end>
+<begin> ill have to check it out kind of forgot about this one <end>	<begin> mujhe check karne padega mai bhul sa gaya tha is wale ko <end>
+<begin> maybe on a date night <end>	<begin> maybe date night par <end>
+<begin> ive never heard of the director damien chazelle <end>	<begin> maine director damien chazelle ke bare me kabhi suna nahi hai <end>
+<begin> neither have i but with scores like that ill have to check out some other films <end>	<begin> mere pass nhi hai iss tarah ki filmon ke liye mujhe dusro ka bhi score check krna hoga <end>
+<begin> i really liek ryan goslings character as well <end>	<begin> mujhe ryan goslings ka kirdaar bhi achha lga <end>
+<begin> i didnt like the scene where mia left him at the end though it was sad <end>	<begin> mujhe wo scene pasand nhi aaya jahan mia ne use chhod diya jabki wo bht dukhad tha <end>
+<begin> spoiler alert <end>	<begin> spoiler aane ki chetavni <end>
+<begin> still worth watching <end>	<begin> phir bhi dubara dekhne layak hai <end>
+<begin> what is the movie <end>	<begin> kya movie hai <end>
+<begin> hi have you see toy story <end>	<begin> hi kya tum ne toy story dekha hai <end>
+<begin> no i havent whats it about <end>	<begin> nahi meme nahi kia ye kis bare mei hai <end>
+<begin> tom hanks was pretty funny <end>	<begin> tom hanks bahut jayada funny hai <end>
+<begin> it is a buddy film <end>	<begin> ye bhai ki movie hai <end>
+<begin> tom hanks is a great actor <end>	<begin> tom hanks ek great actor hai <end>
+<begin> a comedy animation adventure <end>	<begin> ek hasya animation adventure <end>
+<begin> hanks is awesome <end>	<begin> hanks bahut badiya hai <end>
+<begin> what is the movie about <end>	<begin> movie kis bare main hai <end>
+<begin> it is mostly in a kids bedroom <end>	<begin> yeh mostly bacho ke bedroom mein hoti hai <end>
+<begin> the tpys are animated when no one is around <end>	<begin> toys animated ho jate hai jab koi paas nahi hota hai <end>
+<begin> toys <end>	<begin> khilone <end>
+<begin> ok toys in a kids bedroom that are animated sounds interesting <end>	<begin> ok bache ke bedroom mein toys animated ho jate haiinteresting laga <end>
+<begin> o had my doubts about it at first but the film really holds up <end>	<begin> oh mujhe pehle se hi doubt tha but film ne sach mein hold krke rakha <end>
+<begin> what else should i know about the movie <end>	<begin> mujhe aur kya janna chahiye movie ke baare mein <end>
+<begin> hanks plays the toy cowboy <end>	<begin> hanks toy cowboy play kr rha hai <end>
+<begin> he is the kids f arvorite <end>	<begin> vah bachchon ke pasandeeda hain <end>
+<begin> do you know the cowboys name <end>	<begin> kya aap charavaahe ka naam jaanate hain <end>
+<begin> woody <end>	<begin> lakad <end>
+<begin> he has a girlfriend cowgirl not sure what her nam eis <end>	<begin> usakee ek premika kaugarl hai jo usaka naam nahin hai <end>
+<begin> how many toys does the kid have <end>	<begin> bachche ke paas kitane khilaune hain <end>
+<begin> lots of other toys interact and keep the soty interesting <end>	<begin> any khilaunon ke bahut saare aadaan pradaan karate hain aur vyangy ko dilachasp rakhate hain <end>
+<begin> story <end>	<begin> khaani <end>
+<begin> i seem to recall some <number> or <number> toys <end>	<begin> mujhe kuchh <number> ya <number> khilaune yaad hain <end>
+<begin> what are some of the other kinds of toys <end>	<begin> khilaune ke kuchh any prakaar kya hain <end>
+<begin> pretty much what you would find in a kids room <end>	<begin> bahut jyaada aap ek bachchon ke kamare mein kya milega <end>
+<begin> a mr pototo head is don rickles <end>	<begin> don rickles mr pototo head hai <end>
+<begin> jim varney is a slinky dog <end>	<begin> jim varney slinky dog hai <end>
+<begin> wllce shawn is a toy t rex <end>	<begin> wllce shawn toy t rex hai <end>
+<begin> wallace <end>	<begin> wallace <end>
+<begin> tim allen is buzz lightyear a spaceman <end>	<begin> tim allen buzz lightyear ek spaceman hai <end>
+<begin> you want me to keep looking <end>	<begin> tum chahte ho main dekhta rahun <end>
+<begin> yes <end>	<begin> yes <end>
+<begin> there is a piggy bank <end>	<begin> isme piggy bank hai <end>
+<begin> a bo peep <end>	<begin> a bo peep <end>
+<begin> green army man <end>	<begin> green army man <end>
+<begin> oh i found woddys gf she is called sally <end>	<begin> oh mein woddys gf ko find ki uska naam sally hein <end>
+<begin> is there a toy horse <end>	<begin> kya voh toy horse ke he <end>
+<begin> woody has a horse <end>	<begin> woody yek horse hein <end>
+<begin> not sure what the name is though <end>	<begin> muje uska naam itna sure nahi hoon <end>
+<begin> sounds like an interesting movie <end>	<begin> interesting movie ke tarah sound kartha <end>
+<begin> the fun thing i found in the film was all the personal interactions between the toys <end>	<begin> is film ka fun thing hein ki voh sab toys ka personal interactions hein <end>
+<begin> like real people just stuipd ones trying to solve an important problem <end>	<begin> real people ke tarah lekin stupid hein yar voh important problem ko solve karne ke try mein hein <end>
+<begin> funny actors would make it good <end>	<begin> funny actors tho ache hein <end>
+<begin> ya comedians made the film good <end>	<begin> ya comedians tho ache film banate <end>
+<begin> how long is the film <end>	<begin> itna long hein is film <end>
+<begin> about <number> min <end>	<begin> <number> min ke bare mei <end>
+<begin> hi tell me a bit about the movie please <end>	<begin> himuje movie ke bare me thoda batao please <end>
+<begin> hello the movie is called the wolf of wall street <end>	<begin> hellomovie ko wolf of wall street bulaya jata he <end>
+<begin> have you heard of it <end>	<begin> aapne uske bare me suna he <end>
+<begin> i havent <end>	<begin> mere pas nahi he <end>
+<begin> is it good <end>	<begin> wo accha he <end>
+<begin> the movie is an american black comedy based of a memoir of the same name <end>	<begin> american black comedy based of memoir same name ka movie he <end>
+<begin> it recounts belforts perspective as stockbroker in new york city <end>	<begin> wo recounts belforts perspective as sotckbroker newyork city me he <end>
+<begin> oh ok talks about his experience as a stockbrocker <end>	<begin> are okstockbrocker ke tarah uska experience ki tarah bat kara he <end>
+<begin> broker <end>	<begin> dalal <end>
+<begin> sorry <end>	<begin> maf karna <end>
+<begin> np did he do well <end>	<begin> nahi kya voh ache kiya <end>
+<begin> the lead is played by leonardo dicaprio <end>	<begin> lead tho leonardo dicaprio ne play kiya <end>
+<begin> the movie is good <end>	<begin> movie ache hein <end>
+<begin> his firm stratton oakmont engaged in rampant corruption and fraud <end>	<begin> stratton oakmont ka firm tho rampant corruption ne engaged kiya jo fraud tha <end>
+<begin> i like him is he a good guy or bad <end>	<begin> muje pasand hein kya voh ache guy ya bura <end>
+<begin> it led to belfort fall <end>	<begin> belfort fall se led hein <end>
+<begin> he seems like the bad guy since he engaged in fraud <end>	<begin> thoda bad guy hein kyon ki voh fraud kar raha tha <end>
+<begin> yes true does it have much action <end>	<begin> haan kya isme action hein <end>
+<begin> it is a black comedy not action <end>	<begin> yeh black comedy hei action nahi <end>
+<begin> under hanna belfort engages in sex fraud and drugs <end>	<begin> hanna ke under tho belfort sex fraud aur drugs mein engage hein <end>
+<begin> oh right gotcha so funny but a dark funny <end>	<begin> acha tho funny lekin dark funny <end>
+<begin> hanna is a fellow stockbroker for rothschild <end>	<begin> hanna tho stockbroker ka fellow hein jo rothschild <end>
+<begin> sounds interesting im sure has true elements of that life <end>	<begin> interesting yar lekin uska life ka true elements tho muje sure hein <end>
+<begin> yep jordan belfort later starts a company with his buddy donnie azof <end>	<begin> yep jordan belfort us company ko later start kiya buddy donnie azof ke saath <end>
+<begin> well i guess he learned many tricks of the trade with the company <end>	<begin> well muje laga ki voh us trade ka tricks tho jarur sikh liya hoga <end>
+<begin> the company scams people <end>	<begin> company people ko scams kar dethe <end>
+<begin> will he try to not scam people in his new company <end>	<begin> kya vaakahi mein voh apni new company mein people ko scam karne ko try kiya <end>
+<begin> nope the basis of the company is to scam people <end>	<begin> nahi company ka basis hi people ko scam karna <end>
+<begin> so even when he starts his own huh <end>	<begin> acha tho kab voh apne start kiya <end>
+<begin> yep belfort also loses his wife after she discovers he has been sleeping with prostitutes and using drugs <end>	<begin> haan belfort ne apne wife ko choda aur voh us prostitues mein mila drugs use karte <end>
+<begin> cant say i blame her lol <end>	<begin> mei nahi kah sakta ki mei usko blame kar raha hui lol <end>
+<begin> yeah <end>	<begin> yeah <end>
+<begin> two years later jordan belfort is arrested by the fbi <end>	<begin> two year ke baad jordan belfort ko fbi ne arrest kiya <end>
+<begin> did he get convicted <end>	<begin> kya wo convicted hai <end>
+<begin> however he is given leniency for exchange for evidence against his colleagues <end>	<begin> phir bhi usne colleagues ko lenieny diya evidence exchange karne badale <end>
+<begin> sounds like a good movie can we finish now <end>	<begin> sunkar good movie hai kya ham finish kar skate hai <end>
+<begin> yep thanks for chatting <end>	<begin> yep thanks baat karne ke liye <end>
+<begin> thanks i will watch it sounds good <end>	<begin> thanks mei dekhati hui achi baat hai <end>
+<begin> hi <end>	<begin> hi <end>
+<begin> did you like the movie despicable me <end>	<begin> kya tumhe movie despicable me pasand hai <end>
+<begin> i did not realize this movie came out in <number> that seemed so long ago <end>	<begin> mujhe nahi lagta ki ye movie <number> me aayi thi ye bahut long prateet hota hai <end>
